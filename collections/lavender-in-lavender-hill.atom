@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://naturalwholesalers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://naturalwholesalers.com/collections/lavender-in-lavender-hill.atom"/>
+  <title>Natural Wholesalers </title>
+  <updated>2021-06-30T15:07:54+02:00</updated>
+  <author>
+    <name>Natural Wholesalers </name>
+  </author>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4802190114894</id>
+    <published>2021-06-30T15:07:54+02:00</published>
+    <updated>2021-06-30T15:07:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-rooibos-tea-lavender-in-lavender-hill-20-bags"/>
+    <title>Lavender &amp; Rooibos Tea | Lavender in Lavender Hill (20 bags)</title>
+    <s:type>Health Teas</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/LavenderRooibosTea.png?v=1625125299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Health Teas<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hill's</strong> Lavender &amp; Rooibos Tea (20 bags) are vegan-friendly and free of caffeine or other additives!</p>
+<ul>
+<li>A delicious blend of lavender flowers and leaves, with traditional South African Rooibos</li>
+<li>A warm cup of this Lavender &amp; Rooibos Tea will help you wind down, de-stress and relax</li>
+<li>Perfect before bedtime!</li>
+<li>Full of antioxidants, as well as anti-inflammatory and soothing properties</li>
+<li>Calms digestive discomfort, relieves constipation &amp; indigestion</li>
+<li>No artificial flavours or colourants, caffeine, preservatives or cruelty!</li>
+<li>T<span data-mce-fragment="1">eabags are packed in a foil pack which can be recycled</span>
+</li>
+<li>Vegan-friendly</li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h3><span>Ingredients </span></h3>
+<p><span>Dried Lavender Flowers &amp; Leaves, Rooibos Leaves</span></p>
+<h3>How to use</h3>
+<p>Steep a bag for 2-5 minutes before adding<span> organic honey</span><span> </span>or milk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4802190114894</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">56.00</s:price>
+      <s:sku>LIL027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4807642644558</id>
+    <published>2021-05-21T10:45:02+02:00</published>
+    <updated>2021-05-21T10:45:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-scented-candles-lavender-in-lavender-hill"/>
+    <title>Lavender Scented Candle | Lavender in Lavender Hill</title>
+    <s:type>Home Products</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/LavenderCandle.png?v=1615196555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Home Products<br>
+        <strong>Price: </strong>
+            91.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hill</strong>'s Lavender Scented Candles (sold individually) are made <span>with pure essential lavender oil and lavender flowers - </span>keep your home smelling fresh!</p>
+<ul>
+<li>Light a candle to harness its aromatherapy benefits and create a peaceful, relaxing ambiance<span> </span>in your home</li>
+<li>Helps you and your guests by relieving anxiety and restlessness</li>
+<li>Also looks great as home decor! </li>
+<li>Help keep moths and mosquitoes away</li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h3>Ingredients</h3>
+<p>Candle wax, lavender essential oil, lavender flowers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4807642644558</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">91.50</s:price>
+      <s:sku>LIL031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2375412088890</id>
+    <published>2021-05-13T14:39:52+02:00</published>
+    <updated>2021-05-13T14:39:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-pillow-drawer-sachet"/>
+    <title>Lavender Pillow and Drawer Sachet</title>
+    <s:type>Home Products</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Lavender_Sachet.jpg?v=1555067763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Home Products<br>
+        <strong>Price: </strong>
+            31.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hill</strong><span>'s Lavender Pillow and Drawer Sachet is a handmade sachet, filled with fragrant lavender flowers, leaves and pure essential lavender oil!</span></p>
+<ul>
+<li><span>Put next to or under your pillow for a peaceful, deep sleep</span></li>
+<li><span>You can also use this Lavender Sachet to freshen up your car, drawers, cupboards, bathroom or handbag</span></li>
+<li><span>Lavender has strong relaxing and calming properties</span></li>
+<li><span>Lavender essential oil repels mosquitoes and moths</span></li>
+<li>Free from <span>petrochemicals, parabens, synthetic fragrances and harmful chemicals</span>
+</li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h2><span>Ingredients</span></h2>
+<p><span>Lavender flowers, leaves and pure essential lavender oil</span></p>
+<h2><span>Directions for use</span></h2>
+<p><span>Place under or next to your pillow at night. Place in your drawers, cupboards, bathroom, car and handbags for a fresh aroma!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy for Sleep</s:tag>
+    <s:tag>Essential Oils for Sleep</s:tag>
+    <s:tag>Lavender Essential Oil</s:tag>
+    <s:tag>Lavender in Lavender Hill</s:tag>
+    <s:tag>Lavender products</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2375412088890</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">31.50</s:price>
+      <s:sku>LIL003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2392751996986</id>
+    <published>2021-04-09T10:56:31+02:00</published>
+    <updated>2021-04-09T10:56:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-magnesium-bath-salts"/>
+    <title>Lavender Magnesium Bath Salts</title>
+    <s:type>Bath</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Lavender_Bath_Salts.jpg?v=1556138761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Bath<br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hill</strong>'s Lavender Magnesium Bath Salts (250 ml) helps to quieten the mind and relieve any stress or anxiety when added to a hot bath at the end of a long day!</p>
+<ul>
+<li><span>Add these soothing and calming lavender bath salts to a steaming bath</span></li>
+<li>Soothes sore or tense muscles</li>
+<li>Free from <span>petrochemicals, parabens, synthetic fragrances and harmful chemicals</span>
+</li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>Coarse salt, magnesium sulphate, bicarbonate of soda, Lavandula Officinalis (lavender) essential oil, lavender flowers</span></p>
+<h2>Directions for use</h2>
+<p><span>Add a handful of bath salt to a warm bath. Immerse your body in the bath and feel the stress wash away!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Products</s:tag>
+    <s:tag>Lavender Essential Oil</s:tag>
+    <s:tag>Lavender in Lavender Hill</s:tag>
+    <s:tag>Lavender products</s:tag>
+    <s:tag>Natural Bath Salts</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2392751996986</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">51.00</s:price>
+      <s:sku>LIL007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2375399440442</id>
+    <published>2021-04-09T10:56:01+02:00</published>
+    <updated>2021-04-09T10:56:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-lip-balm"/>
+    <title>Lavender Lip Balm</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Lavender_Lip_Balm.jpg?v=1555066569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            35.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hill</strong><span>'s Lavender Lip Balm (10ml) is made from natural ingredients. It's smells lovely and moisturises, soothes and heals cracked, dry, sun burnt and sore lips!</span></p>
+<ul>
+<li>Natural and organic ingredients</li>
+<li>Highly nourishing with strong antioxidant and protective properties</li>
+<li>Prevents cell damage and ageing</li>
+<li>Free from <span>petrochemicals, parabens, synthetic fragrances and harmful chemicals</span>
+</li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>Sweet almond oil, Beeswax, Avocado Butter, Lavender Essential Oil</span></p>
+<h2><span>Directions for use</span></h2>
+<p><span>Apply to your lips as often as needed.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beeswax lip balm</s:tag>
+    <s:tag>Lavender in Lavender Hill</s:tag>
+    <s:tag>Lavender products</s:tag>
+    <s:tag>Lip Balm</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2375399440442</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">35.50</s:price>
+      <s:sku>LIL002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4803238166606</id>
+    <published>2021-04-09T10:32:47+02:00</published>
+    <updated>2021-04-09T10:32:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-hand-cream-lavender-in-lavender-hill"/>
+    <title>Lavender Hand Cream | Lavender in Lavender Hill</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/handcream.jpg?v=1596799656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Skin Care<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hill</strong>'s Lavender Hand Cream (50ml) is the perfect size to carry in your handbag, and <span>perfect to combat dryness caused by harsh hand sanitizers.</span></p>
+<ul>
+<li><span>Soothes the skin, moisturises the skin, hydrates the skin</span></li>
+<li><span>A great natural antiseptic and anti-inflammatory </span></li>
+<li><span>Made with real lavender</span></li>
+<li><span>Improves elasticity, repairs skin damage, reduces signs of ageing and soothes dry, irritated skin</span></li>
+<li><span>Helps eczema, rashes, insect bites, sunburn and skin irritations</span></li>
+<li><span>No artificial colours, or fragrances</span></li>
+<li><span>Palm oil-free, cruelty-free, vegan</span></li>
+<li><span>Support this community upliftment project and help make the world a better place</span></li>
+<li><span>Locally produced to reduce YOUR carbon footprint</span></li>
+</ul>
+<h3 style="display: inline !important;">How to use</h3>
+<p> </p>
+<p>Massage into your hands until fully absorbed.</p>
+<h3>Ingredients</h3>
+<p>Aqua, Aurantium Dulcis (Orange) Fruit Water, Glycerin, Caprylic Capric Triglyceride, Cetearyl Alcohol, Glyceryl Stearate, Vitis Vinifera (Grape) Seed Oil*, Olea Europaea (Olive) Oil*, Cetyl Alcohol, Butyrospermum Parkii (Shea) Butter, Tocopherol (Vitamin E), Xanthan Gum, Citric Acid, Benzyl Alcohol, Dehydroacetic Acid, Lavandula Officinalis (Lavender) Essential Oil.</p>
+<p>*Certified Organic at Source.</p>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4803238166606</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">57.00</s:price>
+      <s:sku>LIL030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2392487002170</id>
+    <published>2021-02-10T14:24:47+02:00</published>
+    <updated>2021-02-10T14:24:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-eye-mask"/>
+    <title>Lavender Eye Mask</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Lavender_Eyemask.jpg?v=1556115046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hill</strong><span>'s Lavender Eye Mask is a handmade, natural and relaxing lavender eye mask to help guide you into a deep sleep with sweet dreams!</span></p>
+<ul>
+<li><span>A wonderfully-scented lavender eye mask filled with fresh lavender leaves, which help promote relaxation and peace</span></li>
+<li>Relieves headaches, tension and stress</li>
+<li>Lavender repels mosquitoes and moths</li>
+<li>Free from <span>petrochemicals, parabens, synthetic fragrances and harmful chemicals</span>
+</li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Fresh lavender</p>
+<h2>Directions for use</h2>
+<p>Lie back and apply over your eyes for a peaceful night's rest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy for Sleep</s:tag>
+    <s:tag>Lavender in Lavender Hill</s:tag>
+    <s:tag>Lavender products</s:tag>
+    <s:tag>Relaxation</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2392487002170</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">42.00</s:price>
+      <s:sku>LIL004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2392737087546</id>
+    <published>2020-12-04T09:58:37+02:00</published>
+    <updated>2020-12-04T09:58:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-essential-oil-pure"/>
+    <title>Lavender Essential Oil</title>
+    <s:type>Essential Oils</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Lavender_essential_oil_copy.jpg?v=1556136985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Essential Oils<br>
+        <strong>Price: </strong>
+            50.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hill</strong><span>'s Lavender Essential Oil (10ml) is the perfect pure essential oil to rub on your temples, use in a burner, in your bath or in an aromatherapy carrier oil for massage!</span></p>
+<ul>
+<li>Promotes deep sleep and alleviates stress and tension</li>
+<li>Heals bites, burns, abrasions, rashes, sunburn, eczema and infections</li>
+<li>Repels mosquitoes and moths</li>
+<li>Free from <span>petrochemicals, parabens, synthetic fragrances and harmful chemicals</span>
+</li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Pure lavender essential oil</p>
+<h2>Directions for use</h2>
+<p>Add a few drops to a warm bath. Burn in a burner, or use in a diffuser. Add to carrier oil for an aromatherapy massage experience. Rub on to temples and wrists.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lavender Essential Oil</s:tag>
+    <s:tag>Lavender in Lavender Hill</s:tag>
+    <s:tag>Lavender products</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2392737087546</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">50.50</s:price>
+      <s:sku>LIL006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4807666401358</id>
+    <published>2020-12-01T10:02:07+02:00</published>
+    <updated>2020-12-01T10:02:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/luxurious-handmade-lavender-soap-lavender-in-lavender-hill"/>
+    <title>Luxurious Handmade Lavender Soap | Lavender in Lavender Hill</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/LavenderSoap.jpg?v=1597399552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Skin Care<br>
+        <strong>Price: </strong>
+            44.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hills</strong>' Handmade Lavender Soap (100g), a gentle and cleansing soap for the sink, shower or bath.</p>
+<ul>
+<li><span>Handmade with coconut oil and essential lavender oil</span></li>
+<li>
+<span>Has a rich and creamy </span><span>texture</span>
+</li>
+<li>
+<span>T</span><span>he calming scent helps to ease stress</span>
+</li>
+<li><span>Lavender oil in soap has strong antibacterial and antiseptic properties</span></li>
+<li><span>Assists in the healing of burns, insect bites, stings, infections, sunburn, skin irritation, skin disorders (e.g. after shave, rashes, eczema)</span></li>
+<li><span>Leaves your skin moisturised, conditioned and hydrated</span></li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h3>Ingredients</h3>
+<p>Coconut and essential lavender oil (alkalizing agent used is Lye / sodium hydroxide and water - none of the chemical is left in the cured soap).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4807666401358</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">44.50</s:price>
+      <s:sku>LIL032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4803190194254</id>
+    <published>2020-12-01T10:01:30+02:00</published>
+    <updated>2020-12-01T10:01:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-honeybush-tea-lavender-in-lavender-hill-20-bags"/>
+    <title>Lavender &amp; Honeybush Tea | Lavender in Lavender Hill (20 bags)</title>
+    <s:type>Health Teas</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/LavenderHoneybushTea.png?v=1625837321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Health Teas<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavender in Lavender Hill's</strong> Lavender &amp; Honeybush Tea (20 bags) are vegan-friendly and free of caffeine or other additives!</p>
+<ul>
+<li>A delicious blend of lavender flowers and leaves, with sweet Honeybush</li>
+<li>A warm cup of this Lavender &amp; Honeybush Tea will help you wind down, de-stress and relax</li>
+<li>Perfect before bedtime, or any time!</li>
+<li>Full of antioxidants, as well as anti-inflammatory and soothing properties</li>
+<li>Calms digestive discomfort, relieves constipation &amp; indigestion</li>
+<li>No artificial flavours or colourants, caffeine, preservatives or cruelty!</li>
+<li>T<span data-mce-fragment="1">eabags are packed in a foil pack which can be recycled</span>
+</li>
+<li>Vegan-friendly</li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h3><span>Ingredients </span></h3>
+<p><span>Dried Lavender Flowers &amp; Leaves, Honeybush Leaves</span></p>
+<h3>How to use</h3>
+<p>Steep a bag for 2-5 minutes before adding<span> organic honey</span><span> </span>or milk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4803190194254</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">56.00</s:price>
+      <s:sku>LIL028</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4796350234702</id>
+    <published>2020-07-29T17:27:39+02:00</published>
+    <updated>2020-07-29T17:27:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/face-mask-red-shweshe-local-community-upliftment-project"/>
+    <title>Face Mask Red Shweshe (local community upliftment project)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/RedFaceMask.jpg?v=1596036397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>3 layered COVID-19 medical face mask</h2>
+<ul>
+<li>A portion of the profit goes to COVID-19 relief in underprivileged areas</li>
+<li><span>Sizes: Adult, small women/teen, 7-12 years, 3-6 years</span></li>
+<li><span>3 layers as recommended by our health department</span></li>
+<li>The outer layer is beautiful 100% cotton Shweshwe, the middle layer is made from spunbond (used in medical masks) and the inner layer is polycotton</li>
+<li><span>Proudly South Africa, beautiful, cotton AND effective</span></li>
+<li><span>Support this community upliftment project and help make the world a better place</span></li>
+</ul>
+<p>Lavender in Lavender Hill<span> is a community-based business with a strong social conscious focused on entrepreneur development and job creation in underprivileged communities throughout Cape Town. They produce all natural handmade lavender home, body and food products of high quality with healing benefits! All ingredients used are organic, free from petrochemicals, parabens, synthetic fragrances and harmful chemicals. Promoting the earth, community-upliftment and luxurious products!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796350234702</id>
+      <title>3 - 6 years</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796350234702</id>
+      <title>7 - 12 years</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796350234702</id>
+      <title>Small woman/teen</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796350234702</id>
+      <title>Adult</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4796345286734</id>
+    <published>2020-07-29T17:24:55+02:00</published>
+    <updated>2020-07-29T17:24:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/face-mask-orange-shweshwe-local-community-upliftment-project"/>
+    <title>Face Mask Orange Shweshwe (local community upliftment project)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/OrangeFaceMask.jpg?v=1596036241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>3 layered COVID-19 medical face mask</h2>
+<ul>
+<li>A portion of the profit goes to COVID-19 relief in underprivileged areas</li>
+<li><span>Sizes: Adult, small women/teen, 7-12 years, 3-6 years</span></li>
+<li><span>3 layers as recommended by our health department</span></li>
+<li>The outer layer is beautiful 100% cotton Shweshwe, the middle layer is made from spunbond (used in medical masks) and the inner layer is polycotton</li>
+<li><span>Proudly South Africa, beautiful, cotton AND effective</span></li>
+<li><span>Support this community upliftment project and help make the world a better place</span></li>
+</ul>
+<p>Lavender in Lavender Hill<span> is a community-based business with a strong social conscious focused on entrepreneur development and job creation in underprivileged communities throughout Cape Town. They produce all natural handmade lavender home, body and food products of high quality with healing benefits! All ingredients used are organic, free from petrochemicals, parabens, synthetic fragrances and harmful chemicals. Promoting the earth, community-upliftment and luxurious products!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796345286734</id>
+      <title>3 - 6 years</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796345286734</id>
+      <title>7 - 12 years</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796345286734</id>
+      <title>Small woman/teen</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4796343550030</id>
+    <published>2020-07-29T17:21:52+02:00</published>
+    <updated>2020-07-29T17:21:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/face-mask-green-local-community-upliftment-project-1"/>
+    <title>Face Mask Green Shweshe (local community upliftment project)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/GreenFaceMask.jpg?v=1596036019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>3 layered COVID-19 medical face mask</h2>
+<ul>
+<li>A portion of the profit goes to COVID-19 relief in underprivileged areas</li>
+<li><span>Sizes: Adult, small women/teen, 7-12 years, 3-6 years</span></li>
+<li><span>3 layers as recommended by our health department</span></li>
+<li>The outer layer is beautiful 100% cotton Shweshwe, the middle layer is made from spunbond (used in medical masks) and the inner layer is polycotton</li>
+<li><span>Proudly South Africa, beautiful, cotton AND effective</span></li>
+<li><span>Support this community upliftment project and help make the world a better place</span></li>
+</ul>
+<p>Lavender in Lavender Hill<span> is a community-based business with a strong social conscious focused on entrepreneur development and job creation in underprivileged communities throughout Cape Town. They produce all natural handmade lavender home, body and food products of high quality with healing benefits! All ingredients used are organic, free from petrochemicals, parabens, synthetic fragrances and harmful chemicals. Promoting the earth, community-upliftment and luxurious products!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796343550030</id>
+      <title>3 - 6 years</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796343550030</id>
+      <title>7 - 12 years</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796343550030</id>
+      <title>Small woman/teen</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4796343550030</id>
+      <title>Adult</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4795528937550</id>
+    <published>2020-07-29T17:05:04+02:00</published>
+    <updated>2020-07-29T17:05:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/face-mask-blue-local-community-upliftment-project"/>
+    <title>Face Mask Blue Shweshwe (local community upliftment project)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/BlueFaceMask.jpg?v=1595942575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>3 layered COVID-19 medical face mask</h2>
+<ul>
+<li>A portion of the profit goes to COVID-19 relief in underprivileged areas</li>
+<li><span>Sizes: Adult, small women/teen, 7-12 years, 3-6 years</span></li>
+<li><span>3 layers as recommended by our health department</span></li>
+<li>The outer layer is beautiful 100% cotton Shweshwe, the middle layer is made from spunbond (used in medical masks) and the inner layer is polycotton</li>
+<li><span>Proudly South Africa, beautiful, cotton AND effective</span></li>
+<li><span>Support this community upliftment project and help make the world a better place</span></li>
+</ul>
+<p>Lavender in Lavender Hill<span> is a community-based business with a strong social conscious focused on entrepreneur development and job creation in underprivileged communities throughout Cape Town. They produce all natural handmade lavender home, body and food products of high quality with healing benefits! All ingredients used are organic, free from petrochemicals, parabens, synthetic fragrances and harmful chemicals. Promoting the earth, community-upliftment and luxurious products!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4795528937550</id>
+      <title>3 - 6 years</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4795528937550</id>
+      <title>7 - 12 years</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4795528937550</id>
+      <title>Small woman/teen</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4795528937550</id>
+      <title>Adult</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4795524907086</id>
+    <published>2020-07-28T15:17:52+02:00</published>
+    <updated>2020-07-28T15:17:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/face-mask-black-local-community-upliftment-project"/>
+    <title>Face Mask Black (local community upliftment project)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/BlackFaceMask.jpg?v=1595942018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>3 layered COVID-19 medical face mask</h2>
+<ul>
+<li>A portion of the profit goes to COVID-19 relief in underprivileged areas</li>
+<li><span>Adult size only</span></li>
+<li><span>3 layers as recommended by our health department</span></li>
+<li><span>The outer layer is beautiful 100% cotton Shweshwe, the middle layer is made from spunbond (used in medical masks) and the inner layer is polycotton</span></li>
+<li><span>Proudly South Africa, beautiful, cotton AND effective</span></li>
+<li><span>Support this community upliftment project and help make the world a better place</span></li>
+</ul>
+<p>Lavender in Lavender Hill<span> is a community-based business with a strong social conscious focused on entrepreneur development and job creation in underprivileged communities throughout Cape Town. They produce all natural handmade lavender home, body and food products of high quality with healing benefits! All ingredients used are organic, free from petrochemicals, parabens, synthetic fragrances and harmful chemicals. Promoting the earth, community-upliftment and luxurious products!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4795524907086</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>LIL010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2507609374778</id>
+    <published>2019-08-30T11:11:03+02:00</published>
+    <updated>2019-08-30T11:11:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lavender-massage-and-body-oil-100ml-lavender-in-lavender-hill"/>
+    <title>Lavender Massage and Body Oil (100ml) | Lavender in Lavender Hill</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Lavender in Lavender Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Massage_Oil_100ml_Shadow.jpg?v=1567156389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavender in Lavender Hill<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            91.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Gentle natural lavender massage oil (100ml)</h2>
+<ul>
+<li>Soothing, nourishing and moisturising lavender essential oil, infused with rosemary extract, in a sweet almond oil base</li>
+<li>Use for massaging or as a daily body oil</li>
+<li>Relieves your skin from dryness, irritations, ageing and stretch marks</li>
+<li>Free from <span>petrochemicals, parabens, synthetic fragrances, harmful chemicals and mineral oil, and is NOT tested on animals</span>
+</li>
+<li>Support this community upliftment project and help make the world a better place</li>
+<li>Locally produced to reduce YOUR carbon footprint</li>
+</ul>
+<h3>Ingredients</h3>
+<p>Sweet Almond Oil (prunus amygdalis), Safflower Oil (carthamus tintorius), Jojoba Seed Oil (simmondsia chinensis), Rosemary extract, Vitamin E (tocopherol), Lavender (Lavendula Augustifolia) Essential Oil</p>
+<h3>Directions for use</h3>
+<p>Apply a thin layer after bath or before bed to the entire body or areas that need some special care!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2507609374778</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">91.50</s:price>
+      <s:sku>LIL009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

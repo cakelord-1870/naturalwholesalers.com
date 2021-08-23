@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://naturalwholesalers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://naturalwholesalers.com/collections/afro-indigenous.atom"/>
+  <title>Natural Wholesalers </title>
+  <updated>2021-06-14T11:52:39+02:00</updated>
+  <author>
+    <name>Natural Wholesalers </name>
+  </author>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1843574767674</id>
+    <published>2021-06-14T11:52:39+02:00</published>
+    <updated>2021-06-14T11:52:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/beard-balm-dispenser"/>
+    <title>Beard Balm Display Dispenser | AFRO Indigenous</title>
+    <s:type>Hair &amp; Skin</s:type>
+    <s:vendor>Afro Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Dispenser_16b8e99f-ad09-412a-a816-85f9a1e5e0f4.png?v=1623663958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afro Indigenous<br>
+        <strong>Type: </strong>Hair &amp; Skin<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Branded dispenser used to promote AFRO Indigenous' beard balms beautifully on your store's counter! Holds up to 6 beard balms.</span></p>
+<p><span>Size: 14cm x cm x 18cm</span></p>
+<p><a href="https://naturalwholesalers.com/products/beard-balm" target="_blank"><span>View AFRO Indigenous Beard Balms &gt;</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afro Indigenous</s:tag>
+    <s:tag>Afro Indigenous Aromatherapy</s:tag>
+    <s:tag>Afro Indigenous Beard Balm</s:tag>
+    <s:tag>Afro Indigenous Distributor Wholesaler</s:tag>
+    <s:tag>Afro Indigenous Essential Oils</s:tag>
+    <s:tag>Afro Indigenous for Men</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1843574767674</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">22.50</s:price>
+      <s:sku>PIND057</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1843535937594</id>
+    <published>2021-06-14T11:52:38+02:00</published>
+    <updated>2021-06-14T11:52:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lip-balm-dispenser"/>
+    <title>Lip Balm Display Dispenser | Pure/AFRO Indigenous</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Afro Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/lipdispenser.png?v=1623664333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afro Indigenous<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Branded dispenser used to promote Pure Indigenous' or AFRO Indigenous' lip balms beautifully on your store's counter! Holds up to 6 lip balms.</p>
+<p>Size: 11cm x 5cm x 7cm </p>
+<p><a href="https://naturalwholesalers.com/collections/pure-indigenous" target="_blank">Browse Pure Indigenous Lip Balms &gt;</a><br></p>
+<p><a href="https://naturalwholesalers.com/collections/afro-indigenous" target="_blank">Browse Afro Indigenous Lip Balms &gt;</a></p>
+<h2><span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afro Indigenous</s:tag>
+    <s:tag>Afro Indigenous Aromatherapy</s:tag>
+    <s:tag>Afro Indigenous Distributor Wholesaler</s:tag>
+    <s:tag>Afro Indigenous Essential Oils</s:tag>
+    <s:tag>Afro Indigenous Lip Balm</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1843535937594</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">16.00</s:price>
+      <s:sku>PIND043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/6613544927310</id>
+    <published>2021-06-11T16:24:16+02:00</published>
+    <updated>2021-06-11T16:24:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/love-potion-lip-balm"/>
+    <title>Love Potion Lip Balm | AFRO Indigenous</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Natural Wholesalers </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/AfroLipBalm-Love.png?v=1623421265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natural Wholesalers <br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>AFRO Indigenous</strong> Love Potion Lip Balm contains 100% natural &amp; indigenous plant-based ingredients to keep lifts soft and nourished.</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Will not cause dry lips like petroleum or chemical based lip balms and glosses</li>
+<li data-mce-fragment="1">Contains indigenous ingredients believed to act as a love charm</li>
+<li data-mce-fragment="1">Beautifully scented with indigenous essential oils</li>
+<li data-mce-fragment="1">Earth conscious company with a love of Africa</li>
+<li data-mce-fragment="1">Contains NO parabens, SLS, petrochemicals, preservatives, artificial fragrances or other chemicals</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Certified organic and plastic free</span></li>
+<li data-mce-fragment="1">Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<p><a href="https://naturalwholesalers.com/products/lip-balm-dispenser" target="_blank" data-mce-href="https://naturalwholesalers.com/products/lip-balm-dispenser">Order branded Lip Balm Dispenser &gt;</a></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Love Potion Lip Balm<span data-mce-fragment="1"> </span></b><span data-mce-fragment="1">contains a blend of natural ingredients and is fragranced with indigenous South African essential oils. The essential oils used are believed to contain magical qualities by the local people. Be it here-say, folklore or pure magic, this balm is soothing and smells marvelous!</span></p>
+<h4>Ingredients</h4>
+<p><span>A moisturising blend of beeswax, avocado butter, coconut oil, macadamia oil, shea butter and sunflower oil with indigenous essential oils.  </span></p>
+<p><span>Caution: Not recommended for use during pregnancy</span></p>
+<p><em>Disclaimer:</em> <em>This product has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/6613544927310</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">20.00</s:price>
+      <s:sku>PIND034</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/6613544271950</id>
+    <published>2021-06-11T16:15:26+02:00</published>
+    <updated>2021-06-11T16:15:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/happiness-lip-balm"/>
+    <title>Happiness Lip Balm | AFRO Indigenous</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Afro Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/AfroLipBalm-Happiness.png?v=1623419877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afro Indigenous<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">AFRO Indigenous's Happiness Lip Balm<span data-mce-fragment="1"> </span></b><span data-mce-fragment="1">nourishes your lips and attracts joy into your life while promoting an uplifted spirit.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Moisturises your lips</li>
+<li data-mce-fragment="1">Protects your lips</li>
+<li data-mce-fragment="1">Balances your thoughts and emotions</li>
+<li data-mce-fragment="1">Promotes a relaxed state of being</li>
+<li data-mce-fragment="1">Believed to release tension and enhance mood</li>
+</ul>
+<p><a href="https://naturalwholesalers.com/products/lip-balm-dispenser" target="_blank" rel="noopener noreferrer">Order branded Lip Balm Dispenser &gt;</a></p>
+<h2>Ingredients</h2>
+<p data-mce-fragment="1"><span data-mce-fragment="1">A blend of Beeswax and Coconut Oil with Avocado Butter, Macadamia Oil, Shea Butter &amp; Sunflower Oil. Fragranced using African Helichrysum a known protector and Rose Geranium for calming.</span></p>
+<h2 data-mce-fragment="1"><span data-mce-fragment="1">Directions for use</span></h2>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Apply the<strong data-mce-fragment="1"> Happiness Lip Balm</strong> to your lips in the morning and throughout the day as needed.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/6613544271950</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">32.00</s:price>
+      <s:sku>PIND004</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/6613544009806</id>
+    <published>2021-06-11T16:14:13+02:00</published>
+    <updated>2021-06-11T16:14:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/beard-balm"/>
+    <title>Beard Balm | AFRO Indigenous</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Afro Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/AfroBeardBalm.png?v=1623420572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afro Indigenous<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>AFRO Indigenous'</strong> Beard Balm contains 100% natural &amp; indigenous plant-based ingredients to keep your beard soft and conditioned.</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Macadamia nut oil helps your beard to grow</li>
+<li data-mce-fragment="1">East to use: Simply apply to fingertips and massage into your beard</li>
+<li data-mce-fragment="1">Subtly scented with indigenous essential oils</li>
+<li data-mce-fragment="1">Contains NO parabens, SLS, petrochemicals, preservatives, artificial fragrances or other chemicals<br>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Certified organic and plastic free</span></li>
+<li data-mce-fragment="1">Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<p><a href="https://naturalwholesalers.com/products/beard-balm-dispenser?_pos=1&amp;_sid=4c1ae5820&amp;_ss=r" target="_blank" rel="noopener noreferrer">Order branded Beard Balm dispenser &gt;</a></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">AFRO Indigenous Beard Balm<span data-mce-fragment="1"> </span></b><span data-mce-fragment="1">contains a blend of natural &amp; organic ingredients from the Cape Floral Kingdoms. It is easy to use and will leave your beard, soft, conditioned and easy to manage. This balm is also soothing and smells like a walk on the mountain!</span></p>
+<h4>Ingredients</h4>
+<p>Bees wax, Macadamia oil, Shea butter, Sunflower oil</p>
+<p>Essential Oils: African helichrysum, African wormwood, Cape Geranium &amp; Cape Snowbush.</p>
+<p><strong>Directions for use</strong></p>
+<p>Apply balm to finger tips and massage into your beard to moisturise and condition<strong><span>.</span></strong></p>
+<p><em>Disclaimer:</em> <em>This product has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/6613544009806</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>PIND003</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2510945714234</id>
+    <published>2021-05-13T16:44:31+02:00</published>
+    <updated>2021-05-13T16:44:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/night-pillow-mist-pure-indigenous"/>
+    <title>Night Pillow Mist | AFRO Indigenous</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PillowMist_61aafaeb-3bd2-4b2d-907f-4e63e0ee526e.png?v=1600248462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            33.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>AFRO Indigenous</strong>'s Night Pillow Mist (50ml) contains a <span>magical blend of indigenous essential oils to promote deep, peaceful sleep and good dreams!</span></p>
+<ul>
+<li>Spray on your pillow to induce relaxation and ease tension of the mind and muscles (for children, too!)</li>
+<li>Contains natural ingredients used in African Traditional Medicine to balance mood, depression, anxiety and stress</li>
+<li>Makes a lovely, local gift!</li>
+<li>Locally produced to reduce YOUR carbon footprint!</li>
+</ul>
+<h3 class="product-description rte"><strong>Ingredients</strong></h3>
+<p class="product-description rte">African Helichrysum Essential Oil, Cape Chamomile Essential Oil, Rose Geranium, blended in water with emollients</p>
+<h3 class="product-description rte"><strong>How to use</strong></h3>
+<p><span>Spray the <strong>Night Pillow Mist</strong> onto your pillow before bed.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2510945714234</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">33.50</s:price>
+      <s:sku>PIND007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1844747632698</id>
+    <published>2021-02-25T09:03:09+02:00</published>
+    <updated>2021-02-25T09:03:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/gogga-insect-repellent-fresh-smelling-environmentally-friendly-spray"/>
+    <title>GOGGA Insect Repellent - Fresh-Smelling Environmentally Friendly Spray</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Afro Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/GoggaSpray.png?v=1628258668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afro Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>GOGGA's Insect Repellent (100 ml)</strong> contains fresh, ingredients that are effective at keeping insects away while being kind to both you and your environment.</p>
+<ul>
+<li>Keeps insects at bay</li>
+<li>Leaves your space with a fresh aroma</li>
+<li>Not harmful to you or insects</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>African Bluegrass (Cymbopogon Validus), Cape May (Coleonema Album), Imphepho (Helichrysum Odoratissimum), Lavender (Lavendula Angustifolia), Lemon Bush (Lippia Javanica), Lemon Eucalyptus (Corymbia Citriodora), Wormwood (Artemisia Afra), with Aqua , Polysorbate 20 &amp; 60, Sorbitan Mono Saturate</span></p>
+<h2><span>Directions for use</span></h2>
+<p><span>Shake the bottle well before spraying on your clothes or bedding as required.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afro Indigenous</s:tag>
+    <s:tag>Afro Indigenous Aromatherapy</s:tag>
+    <s:tag>Afro Indigenous Essential Oils</s:tag>
+    <s:tag>Aromatherapy Room Spray</s:tag>
+    <s:tag>Insect Repellent</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1844747632698</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">32.00</s:price>
+      <s:sku>PIND002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1844798423098</id>
+    <published>2020-11-05T09:10:22+02:00</published>
+    <updated>2020-11-05T09:10:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/gogga-anti-itch-balm-soothes-and-heals-insect-bites"/>
+    <title>GOGGA&apos;s Anti-Itch Balm - Soothes and Heals Insect Bites</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Afro Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/GoggaBalm.png?v=1628255815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afro Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>GOGGA's Anti-Itch Balm (10 g)</strong> is a natural, effective applicant to soothe and heal insect bites, containing moisturising ingredients and essential oils.</p>
+<ul>
+<li>Moisturises skin</li>
+<li>Protects skin</li>
+<li>Smooths and softens skin</li>
+<li>Soothes itches</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>Avocado Butter, Beeswax, Coconut Oil, Macadamia Oil, Mango Butter, Shea Butter, Sunflower Oil, Vitamin E, Cape Snowbush Essential Oil, Geranium Essential Oil, Lavender Essential Oil and Tea Tree Essential Oil</span></p>
+<h2><span>Directions for use</span></h2>
+<p><span>Apply <strong>Gogga Anti-Itch Balm</strong> as often as necessary to insect bites until healing takes place.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afro Indigenous</s:tag>
+    <s:tag>Afro Indigenous Aromatherapy</s:tag>
+    <s:tag>Afro Indigenous Distributor Wholesaler</s:tag>
+    <s:tag>Afro Indigenous Essential Oils</s:tag>
+    <s:tag>Essential Oils for Skin</s:tag>
+    <s:tag>Insect Repellent</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1844798423098</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1839287238714</id>
+    <published>2018-08-20T16:33:01+02:00</published>
+    <updated>2018-08-20T16:33:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/tranquil-room-spray"/>
+    <title>Tranquil Room Spray</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Afro Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/TranquilRoomSpray.png?v=1615198818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afro Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            47.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><strong>Pure Indigenous Tranquil Room Spray (100 ml) </strong></strong><span>contains pure and natural plant fragrances to bring </span>peace and harmony into your space. </p>
+<ul>
+<li>Cleanses your energy</li>
+<li>Protects your aura</li>
+<li>Balances your mind and emotions</li>
+<li>Relieves stress and anxiety</li>
+</ul>
+<h2>Ingredients</h2>
+African Helichrysum Essential Oil, African Wormwood Essential Oil, Cape Chamomile Essential Oil, Rose Geranium Essential Oil, Cape Snowbush Essential Oil, blended in water with emollients<br>
+<ul></ul>
+<h2>Directions for use</h2>
+<p><span>Use the <strong>Tranquil</strong></span><strong> Room Spray</strong><span> in your home, car or working space. Spray as often as needed, such as in the mornings, during big events, transitions and through stressful periods.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afro Indigenous</s:tag>
+    <s:tag>Afro Indigenous Aromatherapy</s:tag>
+    <s:tag>Afro Indigenous Distributor Wholesaler</s:tag>
+    <s:tag>Afro Indigenous Essential Oils</s:tag>
+    <s:tag>Aromatherapy Room Spray</s:tag>
+    <s:tag>Essential Oils for Stress</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1839287238714</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">47.50</s:price>
+      <s:sku>PIND006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

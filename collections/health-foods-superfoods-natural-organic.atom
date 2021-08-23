@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://naturalwholesalers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://naturalwholesalers.com/collections/health-foods-superfoods-natural-organic.atom"/>
+  <title>Natural Wholesalers </title>
+  <updated>2021-06-30T11:42:20+02:00</updated>
+  <author>
+    <name>Natural Wholesalers </name>
+  </author>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4847408840782</id>
+    <published>2021-06-30T11:42:20+02:00</published>
+    <updated>2021-06-30T11:42:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/country-butter-rusks-500g-camphill-village"/>
+    <title>Country Butter Rusks 500g | Camphill Village</title>
+    <s:type>Health food</s:type>
+    <s:vendor>Camphill Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/CountryRusks.png?v=1625143236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camphill Village<br>
+        <strong>Type: </strong>Health food<br>
+        <strong>Price: </strong>
+            62.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Camphill Village West Coast</strong>'s Country Butter Rusks (500g) is sustainably-sourced and made by a local community for intellectually-challenged adults.</p>
+<ul>
+<li><span>This is a wholesome snack packed with crunchy, yummy taste using stone-ground flour, a wide selection of seeds and nuts, honey, cultured butter and free range eggs</span></li>
+<li>Contains no preservatives using only wholesome goodness <br>
+</li>
+<li><span>The revenue that is made from these sales goes towards sustaining Camphill Village West Coast (a sustainable, socially-uplifting community established for intellectually challenged adults)</span></li>
+<li><span>Support local, support community and support our planet!</span></li>
+</ul>
+<h3><span>Ingredients </span></h3>
+<p><span>Stone-ground wheat flour, farm cultured milk, farm butter, sugar, bran 16%, oats, coconut, free range eggs, sunflower seeds, linseeds, sesame seeds, pumpkin seeds, baking powder, salt.</span></p>
+<h3><span>Why we support Camphill Village</span></h3>
+<p><span data-mce-fragment="1">The revenue that is made from these sales goes towards sustaining Camphill Village West Coast. Camphill Village cares </span><span data-mce-fragment="1">about the environment, sustainability and future generations to come!</span></p>
+<p><span data-mce-fragment="1">Camphill Village West Coast is a sustainable, socially-uplifting community established for intellectually challenged adults, to provide them with the opportunity to live with purpose and dignity. Located on a farm (40 km north of Cape Town), Camphill is set in a natural farm setting where the residents work in a bakery, dairy, herbal workshop, farm and vegetable gardens to produce quality goods for sale.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4847408840782</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">62.50</s:price>
+      <s:sku>CH004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4847454847054</id>
+    <published>2021-06-30T11:33:27+02:00</published>
+    <updated>2021-06-30T11:33:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/wheat-free-rye-rusks-500g-camphill-village"/>
+    <title>Wheat-Free Rye Rusks 500g | Camphill Village</title>
+    <s:type>Health food</s:type>
+    <s:vendor>Camphill Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/RyeRusks.png?v=1625143470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camphill Village<br>
+        <strong>Type: </strong>Health food<br>
+        <strong>Price: </strong>
+            71.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Camphill Village West Coast</strong>'s Wheat-Free Rye Rusks (500g) is sustainably-sourced and made by a local community for intellectually-challenged adults.</p>
+<ul>
+<li><span>This is a wholesome, delicious snack made with rye flour, which is a great source of fiber and magnesium</span></li>
+<li>Contains no preservatives using only wholesome goodness <br>
+</li>
+<li><span>The revenue that is made from these sales goes towards sustaining Camphill Village West Coast (a sustainable, socially-uplifting community established for intellectually challenged adults)</span></li>
+<li><span>Support local, support community and support our planet!</span></li>
+</ul>
+<h3><span>Ingredients </span></h3>
+<p><span>Naturally wheat-free made with honey. Rye flour (rye gluten) farm milk, farm butter, farm honey, free range eggs, coconut, cream of tartar, bicarbonate of soda, salt.<br></span></p>
+<h3><span>Why we support Camphill Village</span></h3>
+<p><span>The revenue that is made from these sales goes towards sustaining Camphill Village West Coast. Camphill Village cares about the environment, sustainability and future generations to come!</span></p>
+<p><span data-mce-fragment="1">Camphill Village West Coast is a sustainable, socially-uplifting community established for intellectually challenged adults, to provide them with the opportunity to live with purpose and dignity. Located on a farm (40 km north of Cape Town), Camphill is set in a natural farm setting where the residents work in a bakery, dairy, herbal workshop, farm and vegetable gardens to produce quality goods for sale.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4847454847054</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">71.50</s:price>
+      <s:sku>CH006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4847388328014</id>
+    <published>2021-06-30T11:13:17+02:00</published>
+    <updated>2021-06-30T11:13:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/butter-rusks-500g-camphill-village"/>
+    <title>Butter Rusks 500g | Camphill Village</title>
+    <s:type>Health food</s:type>
+    <s:vendor>Camphill Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/ButterRusks.png?v=1625143149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camphill Village<br>
+        <strong>Type: </strong>Health food<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Camphill Village West Coast</strong>'s Butter Rusks (500g) is sustainably-sourced and made by a local community for intellectually-challenged adults.</p>
+<ul>
+<li>A wonderful, delicious snack</li>
+<li>Contains no preservatives using only wholesome goodness</li>
+<li><span>The revenue that is made from these sales goes towards sustaining Camphill Village West Coast (a sustainable, socially-uplifting community established for intellectually challenged adults)</span></li>
+<li><span>Support local, support community and support our planet!</span></li>
+</ul>
+<h3><span>Ingredients </span></h3>
+<p><span>No added preservatives. Wheat flour, farm butter, farm milk, free range eggs, sugar, wheat bran, coconut, cream of tartar, bicarbonate of soda, salt.</span></p>
+<h3><span>Why we support Camphill Village</span></h3>
+<p><span data-mce-fragment="1">The revenue that is made from these sales goes towards sustaining Camphill Village West Coast. Camphill Village cares </span><span data-mce-fragment="1">about the environment, sustainability and future generations to come!</span></p>
+<p><span data-mce-fragment="1">Camphill Village West Coast is a sustainable, socially-uplifting community established for intellectually challenged adults, to provide them with the opportunity to live with purpose and dignity. Located on a farm (40 km north of Cape Town), Camphill is set in a natural farm setting where the residents work in a bakery, dairy, herbal workshop, farm and vegetable gardens to produce quality goods for sale.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4847388328014</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">53.00</s:price>
+      <s:sku>CH002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4329800695886</id>
+    <published>2021-06-11T08:40:43+02:00</published>
+    <updated>2021-06-11T08:40:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/ghee-clarified-butter-earth-products"/>
+    <title>Ghee (Clarified Butter) | Earth Products</title>
+    <s:type>Health food</s:type>
+    <s:vendor>Earth Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/earth_products_ghee.jpg?v=1572431560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Earth Products<br>
+        <strong>Type: </strong>Health food<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Earth Products</strong>' Ghee (230g) is a healthy alternative to ordinary butter and cooking oils.</p>
+<ul>
+<li>Ghee is clarified butter, meaning that all water and milk solids have been removed, making it perfect for those who are lactose-intolerant or casein-intolerant </li>
+<li>Contains no dairy BUT is not vegan-friendly (as it is an animal byproduct)</li>
+<li>Has a delicious buttery, nutty and slightly sweet flavour </li>
+<li>Perfect for Asian and Indian dishes, cooking, frying and baking</li>
+<li>Loaded with vitamins <span>A, D, E and K</span>
+</li>
+<li>Has a high smoke point of <span>250°C</span>
+</li>
+<li>Has a long shelf life</li>
+<li>Free of trans-fats, preservatives and additives</li>
+<li>Ethically and humanely sourced from grass-fed cows in the Midlands</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Clarified butter</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4329800695886</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">95.00</s:price>
+      <s:sku>EP006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4847194243150</id>
+    <published>2021-06-07T08:29:01+02:00</published>
+    <updated>2021-06-07T08:29:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/granola-mix-500g-camphill-village"/>
+    <title>Granola Mix 500g | Camphill Village</title>
+    <s:type>Health food</s:type>
+    <s:vendor>Camphill Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/GranolaMix.png?v=1625143530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camphill Village<br>
+        <strong>Type: </strong>Health food<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Camphill Village West Coast</strong>'s Granola Mix (500g) is sustainably-sourced and made by a local community for intellectually-challenged adults.</p>
+<ul>
+<li>A wonderful, healthy breakfast or snack food</li>
+<li>Slow baked until it is crispy and golden brown</li>
+<li>The raisins are included in separate packaging to cater for individual taste</li>
+<li>Rich in protein, fiber, and micronutrients</li>
+<li>Due to high fiber content, Granola is great for healthy digestion and feeling fuller for longer</li>
+<li>Helps reduce high cholesterol and blood sugar levels</li>
+<li><span>The revenue that is made from these sales goes towards sustaining Camphill Village West Coast (a sustainable, socially-uplifting community established for intellectually challenged adults)</span></li>
+<li><span>Support local, support community and support our planet!</span></li>
+</ul>
+<h3><span>Ingredients </span></h3>
+<p><span>Rolled oats, nuts, farm honey and an assortment of seeds</span></p>
+<h3><span>Why we support Camphill Village</span></h3>
+<p><span data-mce-fragment="1">The revenue that is made from these sales goes towards sustaining Camphill Village West Coast. Camphill Village cares </span><span data-mce-fragment="1">about the environment, sustainability and future generations to come!</span></p>
+<p><span data-mce-fragment="1">Camphill Village West Coast is a sustainable, socially-uplifting community established for intellectually challenged adults, to provide them with the opportunity to live with purpose and dignity. Located on a farm (40 km north of Cape Town), Camphill is set in a natural farm setting where the residents work in a bakery, dairy, herbal workshop, farm and vegetable gardens to produce quality goods for sale.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4847194243150</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">44.00</s:price>
+      <s:sku>CH001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1875552796730</id>
+    <published>2021-05-10T13:08:39+02:00</published>
+    <updated>2021-05-10T13:08:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/cassava-flour-gluten-free-flour-for-cooking-and-baking"/>
+    <title>Cassava Flour - Gluten-Free Flour For Cooking and Baking</title>
+    <s:type>Superfoods</s:type>
+    <s:vendor>Earth Tribe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/CassavaFlour.png?v=1628259633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Earth Tribe<br>
+        <strong>Type: </strong>Superfoods<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Earth Tribe's Cassava Flour (1 kg)</strong> comes from the whole Cassava root which is a starchy tuber, native to South America, brought to Africa by Portuguese traders in the 16th century. <span>Similar to wheat flour, it's popularly used as a Gluten-free starch.</span></p>
+<ul>
+<li>High in fiber and an excellent source of saponins - phytochemicals that help lower unhealthy cholesterol levels in your bloodstream</li>
+<li>One of the richest sources of carbohydrates and a good source of minerals such as Calcium, Phosphorus, Manganese, Iron and Potassium</li>
+<li>A high energy source (great for those involved in strenuous physical activities) </li>
+<li>An excellent substitute to grains containing gluten </li>
+<li>Contains antioxidants</li>
+<li>Can be consumed by people with sensitive digestive systems and is non-allergenic (for those who are allergic to nut flours)</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Cassava Flour.</p>
+<h2>Directions for use</h2>
+<p>Use as you would any flour for cooking or baking.</p>
+<p><span><strong>Caution</strong>: Should not be eaten raw.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking products</s:tag>
+    <s:tag>Earth Tribe Grains</s:tag>
+    <s:tag>Earth Tribe Superfoods</s:tag>
+    <s:tag>Earth Tribe wholesale distributor South Africa</s:tag>
+    <s:tag>Gluten-free</s:tag>
+    <s:tag>Organic gluten free flour</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1875552796730</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">115.00</s:price>
+      <s:sku>ET016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1758167892026</id>
+    <published>2021-05-10T09:24:29+02:00</published>
+    <updated>2021-05-10T09:24:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/earth-products-non-irradiated-turmeric-powder-250-g"/>
+    <title>Earth Products Non-Irradiated Turmeric Powder (250 g)</title>
+    <s:type>Superfoods</s:type>
+    <s:vendor>Earth Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/TurmericPowderfg.png?v=1628259865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Earth Products<br>
+        <strong>Type: </strong>Superfoods<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Turmeric</strong><span> powder is a common culinary spice in Indian cuisine and is also used  in Ayurvedic medicine, fast making its way to the natural health treasure chest! Turmeric has powerful anti-inflammatory and antioxidant properties! Most turmeric found in stores has been irradiated which removes the beneficial therapeutic properties, so make sure that you only use </span><strong>non-irradiated turmeric powder!</strong><br>
+<h3 style="display: inline !important;"></h3>
+<h3 style="display: inline !important;">Health benefits of turmeric</h3>
+<ul>
+<li>Acts as a digestive aid - helps to stimulate the gall bladder to produce more bile, which is important to break down dietary fat</li>
+<li>Studies have shown that Curcumin can reduce the growth of cancerous cells and new blood vessels in tumours</li>
+<li>The powerful anti-inflammatory and oxidative properties of curcumin make it a perfect choice to reduce arthritis symptoms</li>
+<li>Helps to prevent Alzheimer's and promotes brain and neurotransmitter balance</li>
+<li>For bronchial asthma stir a teaspoon of the powder in a glass of milk or preferred drink and drink up to 3 times a day</li>
+<li>Can also be used in DIY skin care products to naturally cleanse, purify and brighten the skin! </li>
+<li>Non-irradiated turmeric is a key ingredient in Golden Milk (haldi doodh) - an Ayurvedic health drink</li>
+</ul>
+<h3>How to use Turmeric Powder</h3>
+<p>Turmeric powder can be added to food dishes, sauces, soups and drinks like tea and milk! It is best to have on an empty stomach. </p>
+<p><strong>Turmeric Tea</strong> - Dissolve 5 grams (about 1 teaspoon) of turmeric powder into boiled water or almond milk. You can also add lemon, honey, ginger and other spices to enhance the flavour of this delicious drink.</p>
+<p><strong>Ingredients:</strong></p>
+<p>100% Non-irradiated Turmeric Powder</p>
+<ul></ul>
+<p><em>Disclaimer:</em> <em>This product has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earth Products Non-Irradiated Turmeric Powder</s:tag>
+    <s:tag>Non-irradiated turmeric powder South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:tag>Turmeric Powder</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1758167892026</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">29.00</s:price>
+      <s:sku>EP001</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1315179036730</id>
+    <published>2020-12-04T16:07:41+02:00</published>
+    <updated>2020-12-04T16:07:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/earth-organic-apple-cider-vinegar-with-the-mother"/>
+    <title>Earth Organic Apple Cider Vinegar: With the Mother! (500ml)</title>
+    <s:type>Apple Cider Vinegar</s:type>
+    <s:vendor>Earth Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Earth_Apple_Cider_Vinegar.jpg?v=1530540654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Earth Products<br>
+        <strong>Type: </strong>Apple Cider Vinegar<br>
+        <strong>Price: </strong>
+            86.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Contains 'the mother' (collagen strands that are not present in most commercial apple cider vinegar)</li>
+<li>Promotes beautiful skin and vibrant health</li>
+<li>Removes arterial plaque, bodily toxins and infections</li>
+<li>Guards against candida, thrush, moulds, bacteria and germs</li>
+<li>Helps to regulate calcium metabolism</li>
+<li>Normalises urine pH, relieves bladder infections and the frequent urge to urinate</li>
+<li>Helps digestion, prevents and relieves acid reflux and heartburn</li>
+<li>Helps with sore throat, laryngitis, ticklish throat, clears throat congestion and gum infections (use as a gargle)</li>
+<li>Detoxes the body, reduces bloating &amp; cellulite and helps with weight loss</li>
+<li>Applied topically, helps with acne, dandruff, athlete's foot, shingles, sunburn and other burns</li>
+<li>Helps banish itching, dandruff, dry hair and baldness (use as a hair wash or body rinse)</li>
+<li>Relieves the pain of arthritis and gout by removing crystals and toxins from joints, tissues, organs and the whole body</li>
+</ul>
+<h2>What is Apple Cider Vinegar (ACV)?</h2>
+<p>EARTH Apple Cider Vinegar is made from organically grown apples and contains the famous 'Mother' = th<span>e collagen strands that help keep making vinegar. These appear as little floaty bits in the vinegar and are essential in maintaining the therapeutic benefits of the Apple Cider Vinegar. They are not usually present in non-organic store-bought apple cider vinegar,  </span></p>
+<h3>How to use Apple Cider Vinegar</h3>
+<p>You can drink Apple Cider Vinegar as is, but most people prefer to dilute it.</p>
+<p>This is a good mix:</p>
+<p><span>Add one tablespoon Apple Cider Vinegar,  1/2 juiced lemon and one teaspoon honey or maple syrup into a cup of warm water. Drink first thing in the morning, after working out, or when dehydrated.</span></p>
+<p><span>You can also add a tablespoon of Apple Cider Vinegar to a 1/2 cup of warm water and sip slowly to relieve indigestion, heartburn or acid reflux. </span></p>
+<p><span>Topically, dilute one tablespoon Apple Cider Vinegar and sponge onto itchy skin, athlete's foot or other skin conditions, or use as a hair rinse for scalp problems or dandruff. </span></p>
+<ul></ul>
+<p><em>Disclaimer:</em> <em>This product has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACV</s:tag>
+    <s:tag>Apple Cider Vinegar for heartburn</s:tag>
+    <s:tag>Apple Cider Vinegar to lose weght</s:tag>
+    <s:tag>Apple Cider Vinegar with the Mother South Africa</s:tag>
+    <s:tag>Earth Organic Apple Cider Vinegar</s:tag>
+    <s:tag>Organic ACV</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1315179036730</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">86.50</s:price>
+      <s:sku>EP003</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2226816679994</id>
+    <published>2020-10-26T12:41:44+02:00</published>
+    <updated>2020-10-26T12:41:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/cannaco-cbd-gummies-a-delicious-dose-of-cbd"/>
+    <title>Cannaco CBD Gummies: A delicious dose of CBD!</title>
+    <s:type>CBD Oil</s:type>
+    <s:vendor>Cannaco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Cannaco_CBD_Gummies.png?v=1545305699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cannaco<br>
+        <strong>Type: </strong>CBD Oil<br>
+        <strong>Price: </strong>
+            136.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Cannaco's CBD Gummies </strong>are a delicious way to get your daily dose of CBD. Each gummy contains 4 mg CBD oil and there are 15 gummies in a packet (5 days at 3 gummies per day). (90 g)</span></p>
+<ul>
+<li>15 delicious CBD infused gummies in a packet</li>
+<li><span>Each gummy delivers a 4 mg Certified USDA Organic Broad Spectrum CBD dose right into your Endocannabinoid System</span></li>
+<li><span>Three gummies per day provide the recommended dose of 12 mg</span></li>
+<li><span><strong>Cannaco </strong>CBD oil is free from any herbicides, pesticides, GMO products, solvents or any other form of additive</span></li>
+<li><span>Contains THC at the legal limit of &lt;0.3% (will cause no “high”)</span></li>
+<li><span>CBD helps maintain an optimal level of homeostasis</span></li>
+<li><span>Reduces inflammation, chronic pain, insomnia, headaches and other serious diseases/health issues</span></li>
+</ul>
+<h2><span>Ingredients</span></h2>
+<p>Certified USDA Organic Broad Spectrum CBD, Sugar, Glucose Syrup, Gelatine, Corn Starch, Acidity Regulators, Flavouring, Colourants and Glazing Agents</p>
+<p>Glazing Agents: Beeswax (E); Candelilla wax (E); Carnauba wax (E)<br>Acidity Regulators: Citric Acid</p>
+<p>Flavouring and Colorants: Natural and artificial food colouring and flavouring</p>
+<h2><span>Directions for use</span></h2>
+<p><span>We recommend to start with 1 gummy if you are sensitive or new to CBD edibles, building up to 3 gummies per day. As all people, and their health needs, are different, the recommended dosage of CBD oil will vary from person to person, depending on their constitution, lifestyle and needs. </span></p>
+<p><span>For kids: start with half gummy (max one).</span></p>
+<p><span>Note: Should not be taken by those with ADD/ADHD or sensory disorders due to sugar content. Instead, we recommend using <a href="https://naturalwholesalers.com/products/cbd-oil-paired-with-mct-200mg-15ml" title="usda organic cbd oil" target="_blank">Pure MCT CBD Oil - Certified USDA! (15ml)</a> or <a href="https://naturalwholesalers.com/products/cbd-oil-paired-with-mct-400mg-30ml" title="usda certified organic cbd oil" target="_blank">Pure MCT CBD Oil - Certified USDA! (30ml)</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cannabinoids</s:tag>
+    <s:tag>Cannaco</s:tag>
+    <s:tag>Cannaco CBD infused gummies</s:tag>
+    <s:tag>Cannaco CBD Oil</s:tag>
+    <s:tag>Cannaco Wholesale Distributor in South Africa</s:tag>
+    <s:tag>CBD Oil</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2226816679994</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">136.00</s:price>
+      <s:sku>CANN004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4708777853006</id>
+    <published>2020-07-23T10:21:42+02:00</published>
+    <updated>2020-07-23T10:21:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/cannaco-cbd-cookies-a-delicious-therapeutic-snack"/>
+    <title>Cannaco CBD Cookies - a delicious, therapeutic snack! (Vanilla)</title>
+    <s:type>CBD Oil</s:type>
+    <s:vendor>Cannaco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/VanillaCookies.png?v=1619619883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cannaco<br>
+        <strong>Type: </strong>CBD Oil<br>
+        <strong>Price: </strong>
+            136.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cannaco</strong>'s Organic Vanilla CBD Cookies contains 15 servings of relaxation and wellness!</p>
+<ul>
+<li><span>Reduces stress, aches, inflammation, insomnia, anxiety and ADHD</span></li>
+<li>Broad Terpene Spectrum CBD Oil paired with MCT (Medium Chain Triglycerides)</li>
+<li>Contains THC at the <span>legal limit of &lt;0.3% (will cause no “high”). THC is synergistic with the other cannabinoids in the formula and enhances their value and absorption</span>
+</li>
+<li><span>Cannaco CBD oil is Co2 extracted and completely free from any herbicides, pesticides, GMO products, solvents or any other form of additive. </span></li>
+<li>Works with your body's own endocannibinoid system to heal and support optimum health</li>
+<li>
+<p><strong>Strength</strong>: 15 Biscuits // 150mg Broad Spectrum CBD // 10mg per Biscuit</p>
+</li>
+</ul>
+<h3>Ingredients</h3>
+<p><span>Certified Broad Spectrum CBD, Salt, Butter, Sugar, Vanilla Essence, Wheat Flour, Potassium Sorbate, Baking Soda, Eggs, Baking Powder.</span></p>
+<h3>How to use</h3>
+<p><span>Start with 1/2 biscuit and wait for 10 – 15 minutes before increasing the dosage. Max recommended dosage – 1 Biscuit. Each biscuit contains 10mg Broad Spectrum CBD. </span></p>
+<p><span>Kids: max a quarter of a biscuit (preferably before bed).</span></p>
+<p><span>Store in a cool dry place.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4708777853006</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">136.00</s:price>
+      <s:sku>CANN010</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1875561218106</id>
+    <published>2020-07-22T16:27:58+02:00</published>
+    <updated>2020-07-22T16:27:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/jugo-beans-powerhouse-savoury-legumes"/>
+    <title>Jugo Beans - Powerhouse Savoury Legumes</title>
+    <s:type>Superfoods</s:type>
+    <s:vendor>Earth Tribe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/EarthTribeJugoBeans.jpg?v=1613562757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Earth Tribe<br>
+        <strong>Type: </strong>Superfoods<br>
+        <strong>Price: </strong>
+            103.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Earth Tribe's Jugo Beans (1 kg)</strong> or Bambara groundnuts, are nutritional legumes packed with protein, fibre, B vitamins, irons and potassium, and low in fat. Highly underrated and superior to other beans and legumes.</p>
+<ul>
+<li>
+<strong>Jugo Beans</strong> have such a powerful natural savoury flavour with a hint of sweetness, that you don’t need to add anything but salt to enjoy</li>
+<li>Rich in phytochemicals, they help lower the risk of heart disease and contain a wide range of cancer-fighting plant chemicals</li>
+<li>A rich source of soluble fibre and saponins - phytochemicals that help lower unhealthy cholesterol levels in your bloodstream</li>
+<li>When consumed, they slow down the release of sugar to give you a steady supply of (glucose) energy</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Jugo Beans.</p>
+<h2>Directions for use</h2>
+<p>To cook, first wash and submerge well with fresh water to soak overnight. Before cooking, drain well and rinse again. For every 1 cup of beans, add 2 cups of water or more – as they cook, they make a thick, soupy brown sauce that can be used in soups and stews for a savoury burst of flavour. Bring to the boil, then lower the heat to simmer – covered – for around 1 to 1 ½ hours. Only add salt at the very end, as salt tends to harden beans while they are cooking.</p>
+<p>Eat plain as a snack, or add to rice for a pilaf, or roast in the oven, or add to your favourite tomato sauce for a delicious protein b</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking products</s:tag>
+    <s:tag>Earth Tribe</s:tag>
+    <s:tag>Earth Tribe Superfoods</s:tag>
+    <s:tag>Earth Tribe wholesale distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1875561218106</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">103.50</s:price>
+      <s:sku>ET017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4708891426894</id>
+    <published>2020-06-17T09:49:29+02:00</published>
+    <updated>2020-06-17T09:49:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/cannaco-cbd-cookies-a-delicious-therapeutic-snack-peanut-butter-ginger"/>
+    <title>Cannaco CBD Cookies - a delicious, therapeutic snack! (Peanut Butter Ginger)</title>
+    <s:type>CBD Oil</s:type>
+    <s:vendor>Cannaco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Ginger_peanutButterCookies.png?v=1619619818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cannaco<br>
+        <strong>Type: </strong>CBD Oil<br>
+        <strong>Price: </strong>
+            136.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cannaco</strong>'s Organic Peanut Butter Ginger CBD Cookies contains 15 servings of relaxation and wellness!</p>
+<ul>
+<li><span>Reduces stress, aches, inflammation, insomnia, anxiety and ADHD</span></li>
+<li>Broad Terpene Spectrum CBD Oil paired with MCT (Medium Chain Triglycerides)</li>
+<li>Contains THC at the <span>legal limit of &lt;0.3% (will cause no “high”). THC is synergistic with the other cannabinoids in the formula and enhances their value and absorption</span>
+</li>
+<li><span>Cannaco CBD oil is Co2 extracted and completely free from any herbicides, pesticides, GMO products, solvents or any other form of additive. </span></li>
+<li>Works with your body's own endocannibinoid system to heal and support optimum health</li>
+<li>
+<p><strong>Strength</strong>: 15 Biscuits // 150mg Broad Spectrum CBD // 10mg per Biscuit</p>
+</li>
+</ul>
+<h3>Ingredients</h3>
+<p><span>Certified Broad Spectrum CBD, Salt, Butter, Sugar, Vanilla Essence, Wheat Flour, Potassium Sorbate, Baking Soda, Eggs, Baking Powder.</span></p>
+<h3>How to use</h3>
+<p><span>Start with 1/2 biscuit and wait for 10 – 15 minutes before increasing the dosage. Max recommended dosage – 1 Biscuit. Each biscuit contains 10mg Broad Spectrum CBD. </span></p>
+<p><span>Kids: max a quarter of a biscuit (preferably before bed).</span></p>
+<p><span>Store in a cool dry place.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4708891426894</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">136.00</s:price>
+      <s:sku>CANN010</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

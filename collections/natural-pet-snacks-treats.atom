@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://naturalwholesalers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://naturalwholesalers.com/collections/natural-pet-snacks-treats.atom"/>
+  <title>Natural Wholesalers </title>
+  <updated>2021-06-01T10:46:46+02:00</updated>
+  <author>
+    <name>Natural Wholesalers </name>
+  </author>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219574198330</id>
+    <published>2021-06-01T10:46:46+02:00</published>
+    <updated>2021-06-01T10:46:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/venison-droewors-delicious-free-range-pet-treat"/>
+    <title>Venison Droewors: Delicious free range pet treat (100g)</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Venison_Droewors_New_100g.jpg?v=1544789922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Venison Droewors (100 g)</strong> is made with free range organic venison which is air dried and contains no salt, grains, sugar or other additives - only delicious goodness for your pet<span>. Perfect as a treat or a reward.</span></p>
+<ul>
+<li>Organic air dried free range venison</li>
+<li>Contains no grains, fat, salt, sugar or other harmful additives</li>
+<li>Packaging made with recycled materials and manufactured by a community upliftment project </li>
+<li>High in protein</li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Air-dried droëwors made with organic venison trimmings and plant casings – contains 5% canola oil. NO fat, NO salt, NO spices.Contains<span> Potassium Sorbate</span>.</p>
+<h2>Directions for use</h2>
+<p>Use as an anytime treat or training reward - these pet treats will be sure to get tails wagging!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw Love Venison Droewors for Pets</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219574198330</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">29.00</s:price>
+      <s:sku>RL001</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219587403834</id>
+    <published>2021-06-01T10:45:33+02:00</published>
+    <updated>2021-06-01T10:45:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/venison-biltong-delicious-chewy-free-range-pet-treat"/>
+    <title>Venison Biltong: Delicious chewy free range pet treat</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Venison_Biltong_New_100_g.jpg?v=1544688909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Venison Biltong (100 g)</strong> is made with free range organic venison which is air dried and contains no sugar, salt, spices or other additives - only delicious goodness for your pet<span>. Perfect as a treat or a reward.</span></p>
+<ul>
+<li>Organic air dried free range venison</li>
+<li>Contains no grains, fat, salt, sugar or other harmful additives</li>
+<li>Packaging made with recycled materials and manufactured by a community upliftment project </li>
+<li>High in protein and good for teeth!</li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p>100% organic &amp; air-dried venison liver. NO salt, NO spices. Contains<span> Potassium Sorbate</span>.</p>
+<h2>Directions for use</h2>
+<p>Use as an anytime treat or training reward - these pet treats will be sure to get tails wagging!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw Love Venison Biltong</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219587403834</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">29.00</s:price>
+      <s:sku>RL003</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219584389178</id>
+    <published>2021-06-01T10:45:01+02:00</published>
+    <updated>2021-06-01T10:45:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/venison-droewors-delicious-free-range-pet-treat-large"/>
+    <title>Venison Droewors: Delicious free range pet treat (250g)</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Venison_Droewors_250_g.jpg?v=1544689343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            62.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Venison Droewors (250 g)</strong> is made with free range organic venison which is air dried and contains no added grains, sugar, salt or other additives, only delicious goodness for your pet<span>. Perfect as a treat or a reward.</span></p>
+<ul>
+<li>Organic air dried free range venison</li>
+<li>Contains no added grains, fat, salt, sugar or other harmful additives</li>
+<li>Packaging made with recycled materials and manufactured by a community upliftment project </li>
+<li>High in protein</li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Air-dried droëwors made with organic venison trimmings and plant casings – contains 5% canola oil. NO fat, NO salt, NO spices.Contains<span> Potassium Sorbate</span>.</p>
+<h2>Directions for use</h2>
+<p>Use as an anytime treat or training reward - these pet treats will be sure to get tails wagging!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw Love Venison Droewors for Pets</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219584389178</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">62.50</s:price>
+      <s:sku>RL002</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219627348026</id>
+    <published>2021-04-16T09:01:19+02:00</published>
+    <updated>2021-04-16T09:01:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/bed-time-treats-delicious-healthy-bed-time-biscuits-for-pets"/>
+    <title>Bed Time Treats: Delicious healthy bed time biscuits for pets (100g)</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Bedtime_Treats_100_g_new.jpg?v=1544695667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Bed Time Treats (100 g)</strong> come in a cute moon shape and are made with o<span>rganic Chamomile &amp; Passion Flowers to help pets sleep tight! Dogs and cats will love these d</span>elicious, natural g<span>rain free biscuits!</span>  </p>
+<ul>
+<li>Wheat Free Biscuits with organic Chamomile and Passion Flowers </li>
+<li><span>Helps to promote sleep, relax nerves and reduce stress.</span></li>
+<li>No added fat, salt, sugar, xylitol, preservatives or other harmful additives</li>
+<li>Packaging made with recycled materials and locally manufactured by a community upliftment project </li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>Lentil flour, free range eggs, raw honey, organic Chamomile flowers, organic Passiflora, organic coconut oil, baking soda. Cont</span>ains NO added spices, salt, sugar, xylitol,  preservatives or colourants - only pure goodness for your dog or cat!</p>
+<h2>Directions for use</h2>
+<p>Use as a night time treat to relax dogs and cats!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy biscuits for dogs and cats</s:tag>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Bedtime Treats</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219627348026</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">30.00</s:price>
+      <s:sku>RL007</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219633049658</id>
+    <published>2021-04-12T11:38:08+02:00</published>
+    <updated>2021-04-12T11:38:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/training-treats-delicious-healthy-training-rewards-for-pets"/>
+    <title>Training Treats: Delicious healthy training rewards for clever pets</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Training_Treats_New_200_g.jpg?v=1544697260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            55.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Training Treats (200 g)</strong> are the perfect size to reward dogs (or cats) for behaviour learned well. They are g<span>rain free and made with organic Venison to make sure your clever pet stays healthy and fit!</span>  </p>
+<ul>
+<li>Grain free training treats with organic free range venison  </li>
+<li><span>The perfect size for a training treat - just a quick delicious taste for a job well done!</span></li>
+<li>No added fat, salt, sugar, xylitol, preservatives or other harmful additives</li>
+<li>Packaging made with recycled materials and locally manufactured by a community upliftment project </li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>Organic venison liver, lentil flour, organic rolled oats, free range eggs. Cont</span>ains NO added spices, salt, sugar, xylitol,  preservatives or colourants - only pure goodness for your dog or cat!</p>
+<h2>Directions for use</h2>
+<p>Use as a training aid to reward your pet for a lesson well learned! Good dog!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy biscuits for dogs and cats</s:tag>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw Love Training Treats</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219633049658</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">55.50</s:price>
+      <s:sku>RL010</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219669815354</id>
+    <published>2021-04-12T11:37:10+02:00</published>
+    <updated>2021-04-12T11:37:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/bed-time-treats-delicious-healthy-bed-time-biscuits-for-pets-large"/>
+    <title>Bed Time Treats: Delicious healthy bed time biscuits for pets (200g)</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Bedtime_Treats_200_g_new.jpg?v=1544699609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            53.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Bed Time Treats (200 g)</strong> come in a cute moon shape and are made with o<span>rganic Chamomile &amp; Passion Flowers to help pets sleep tight! Dogs and cats will love these d</span>elicious, natural g<span>rain free biscuits!</span>  </p>
+<ul>
+<li>Wheat Free Biscuits with organic Chamomile and Passion Flowers </li>
+<li><span>Helps to promote sleep, relax nerves and reduce stress.</span></li>
+<li>No added fat, salt, sugar, xylitol, preservatives or other harmful additives</li>
+<li>Packaging made with recycled materials and locally manufactured by a community upliftment project </li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>Lentil flour, free range eggs, raw honey, organic Chamomile flowers, organic Passiflora, organic coconut oil, baking soda. Cont</span>ains NO added spices, salt, sugar, xylitol,  preservatives or colourants - only pure goodness for your dog or cat!</p>
+<h2>Directions for use</h2>
+<p>Use as a night time treat to relax dogs and cats!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy biscuits for dogs and cats</s:tag>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Bedtime Treats</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219669815354</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">53.50</s:price>
+      <s:sku>RL009</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219624235066</id>
+    <published>2021-04-12T11:36:44+02:00</published>
+    <updated>2021-04-12T11:36:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/health-treats-delicious-healthy-biscuits-for-pets-large"/>
+    <title>Health Treats: Delicious healthy biscuits for pets (200g)</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Health_Treats_200_g_New.jpg?v=1544694354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            53.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Health Treats (200 g)</strong> are delicious natural g<span>rain free biscuits for pets with Organic Rosehip, Rooibos &amp; Sutherlandia</span>, offering a yummy organic pet treat that improves their health too!  </p>
+<ul>
+<li>Wheat Free Biscuits with Organic Rosehip, Rooibos &amp; Sutherlandia</li>
+<li>Rooibos, Rosehip and Sutherlandia are traditionally used to boost the immune system and assist in the treatment of cancer and diabetes.</li>
+<li>Both Rooibos and Rosehip are often used to treat skin conditions.</li>
+<li>No added fat, salt, sugar, xylitol, preservatives or other harmful additives</li>
+<li>Packaging made with recycled materials and locally manufactured by a community upliftment project </li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>Lentil flour, free range eggs, raw honey, organic Rosehip, organic Rooibos, organic Sutherlandia, organic coconut oil, baking soda. </span>Contains NO added spices, salt, sugar, xylitol,  preservatives or colourants - only pure goodness for your dog or cat!</p>
+<h2>Directions for use</h2>
+<p>Use as an anytime treat or training reward - these pet treats will be sure to get tails wagging!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy biscuits for dogs and cats</s:tag>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Health Treats</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219624235066</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">53.50</s:price>
+      <s:sku>RL008</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219620368442</id>
+    <published>2021-04-12T11:36:44+02:00</published>
+    <updated>2021-04-12T11:36:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/health-treats-delicious-healthy-organic-biscuits-for-pets"/>
+    <title>Health Treats: Delicious healthy biscuits for pets (100g)</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Health_Treats_100_g_new.jpg?v=1544693779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Health Treats (100 g)</strong> are delicious natural g<span>rain free biscuits for pets with Organic Rosehip, Rooibos &amp; Sutherlandia</span>, offering a yummy organic pet treat that improves their health too!  </p>
+<ul>
+<li>Wheat Free Biscuits with Organic Rosehip, Rooibos &amp; Sutherlandia</li>
+<li>Rooibos, Rosehip and Sutherlandia are traditionally used to boost the immune system and assist in the treatment of cancer and diabetes.</li>
+<li>Both Rooibos and Rosehip are often used to treat skin conditions.</li>
+<li>No added fat, salt, sugar, xylitol, preservatives or other harmful additives</li>
+<li>Packaging made with recycled materials and locally manufactured by a community upliftment project </li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>Lentil flour, free range eggs, raw honey, organic Rosehip, organic Rooibos, organic Sutherlandia, organic coconut oil, baking soda. </span>Contains NO added spices, salt, sugar, xylitol,  preservatives or colourants - only pure goodness for your dog or cat!</p>
+<h2>Directions for use</h2>
+<p>Use as an anytime treat or training reward - these pet treats will be sure to get tails wagging!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy biscuits for dogs and cats</s:tag>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Health Treats</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219620368442</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">30.00</s:price>
+      <s:sku>RL006</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219599953978</id>
+    <published>2021-04-12T11:36:13+02:00</published>
+    <updated>2021-04-12T11:36:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/peanut-butter-biscuits-delicious-healthy-pet-treat-1"/>
+    <title>Peanut Butter Biscuits: Delicious healthy pet treat</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Peanut_Butter_Biscuits_new.jpg?v=1544691997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Peanut Butter Biscuits (100 g)</strong> are a delicious natural pet treat made with organic peanut butter and banana. They are grain free, with no added salt, sugar, xylitol, preservatives or colourants - just pure yummy goodness for your pet!</p>
+<ul>
+<li>Organic healthy ingredients</li>
+<li>Contains no grains, fat, salt, sugar, xylitol, preservatives or other harmful additives</li>
+<li>Packaging made with recycled materials and locally manufactured by a community upliftment project </li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p><span>Organic peanut butter, bananas, free range eggs, lentil flour, organic coconut flour, baking soda – NO </span><span>added salt, spices, preservatives or colourants</span><span> </span><span>-</span><span> </span><span>only pure goodness for your dog or cat!</span></p>
+<h2>Directions for use</h2>
+<p>Use as an anytime treat or training reward - these pet treats will be sure to get tails wagging!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Peanut Butter Biscuits</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219599953978</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">29.00</s:price>
+      <s:sku>RL005</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2219594711098</id>
+    <published>2021-04-12T11:35:51+02:00</published>
+    <updated>2021-04-12T11:35:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/venison-chews-delicious-free-range-healthy-pet-treat"/>
+    <title>Venison Chews: Delicious free range healthy pet treat</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Raw Love</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Raw_Love_Venison_Chews_new.jpg?v=1544689863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Raw Love<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Raw Love Venison Chews (100 g)</strong> are made with free range organic venison which is air dried and contains no added grains, sugar, salt or other additives, only delicious goodness for your pet<span>. Perfect as a treat or a reward.</span></p>
+<ul>
+<li>Organic air dried free range venison</li>
+<li>Contains no added grains, fat, salt, sugar or other harmful additives</li>
+<li>Packaging made with recycled materials and manufactured by a community upliftment project </li>
+<li>High in protein and good for teeth!</li>
+<li>Locally produced to reduce your carbon footprint</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Air-dried venison. NO fat, NO salt, NO spices. Contains<span> Potassium Sorbate</span>.</p>
+<h2>Directions for use</h2>
+<p>Use as an anytime treat or training reward - these pet treats will be sure to get tails wagging!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:tag>Pet Products</s:tag>
+    <s:tag>Raw Love Pet Treats</s:tag>
+    <s:tag>Raw Love Venison Chews</s:tag>
+    <s:tag>Raw treats for dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2219594711098</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">29.00</s:price>
+      <s:sku>RL004</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2454820094010</id>
+    <published>2021-03-18T16:27:11+02:00</published>
+    <updated>2021-03-18T16:27:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/cannapaw-cbd-pet-treats-certified-usda-organic-full-spectrum-cbd"/>
+    <title>Cannapaw CBD Pet Treats (Certified USDA Organic Broad Spectrum CBD)</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Cannapaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Newcannapawtreats.png?v=1615886962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cannapaw<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            64.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cannapaw</strong>'s CBD Treats are a delicious and healthy snack for your beloved pet! Organic, yummy and therapeutic CBD treats.</p>
+<ul>
+<li>Use for training or as an anytime treat </li>
+<li>Therapeutic ingredients help relax and calm anxious, distressed or highly-strung animals (thunder, fireworks, separation, new baby etc.)</li>
+<li>CBD treats help with with pain, aches and inflammation (e.g. arthritis)</li>
+<li>Aids digestive health</li>
+<li>Reduces allergies </li>
+<li>Inhibits cancer growth</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Certified USDA Organic Broad Spectrum CBD, Citrus Bioflavonoids, Organic Coconut Oil, Pumpkin, Peanut Butter, Wheat Flour, Low Salt, Low Sodium Beef Stock, Potassium Sorbate (safe for animals)</p>
+<h2>Directions for use</h2>
+<p>1-2 treats depending on size. Start small (1/2 a treat) and increase if needed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cannapaw CBD Oil</s:tag>
+    <s:tag>CBD Oil</s:tag>
+    <s:tag>CBD pet treats</s:tag>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2454820094010</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">64.50</s:price>
+      <s:sku>CANN007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

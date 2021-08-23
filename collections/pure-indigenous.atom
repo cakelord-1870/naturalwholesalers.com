@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://naturalwholesalers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://naturalwholesalers.com/collections/pure-indigenous.atom"/>
+  <title>Natural Wholesalers </title>
+  <updated>2021-06-14T11:52:38+02:00</updated>
+  <author>
+    <name>Natural Wholesalers </name>
+  </author>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1843535937594</id>
+    <published>2021-06-14T11:52:38+02:00</published>
+    <updated>2021-06-14T11:52:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/lip-balm-dispenser"/>
+    <title>Lip Balm Display Dispenser | Pure/AFRO Indigenous</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Afro Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/lipdispenser.png?v=1623664333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afro Indigenous<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Branded dispenser used to promote Pure Indigenous' or AFRO Indigenous' lip balms beautifully on your store's counter! Holds up to 6 lip balms.</p>
+<p>Size: 11cm x 5cm x 7cm </p>
+<p><a href="https://naturalwholesalers.com/collections/pure-indigenous" target="_blank">Browse Pure Indigenous Lip Balms &gt;</a><br></p>
+<p><a href="https://naturalwholesalers.com/collections/afro-indigenous" target="_blank">Browse Afro Indigenous Lip Balms &gt;</a></p>
+<h2><span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afro Indigenous</s:tag>
+    <s:tag>Afro Indigenous Aromatherapy</s:tag>
+    <s:tag>Afro Indigenous Distributor Wholesaler</s:tag>
+    <s:tag>Afro Indigenous Essential Oils</s:tag>
+    <s:tag>Afro Indigenous Lip Balm</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1843535937594</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">16.00</s:price>
+      <s:sku>PIND043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/6613546369102</id>
+    <published>2021-06-14T09:09:06+02:00</published>
+    <updated>2021-06-14T09:09:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/hemp-lip-balm"/>
+    <title>Hemp Lip Balm | Pure Indigenous</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/LipBalm-Hemp.png?v=1623654461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Pure Indigenous' Hemp Healing Lip Balm (10 g) </strong>contains natural hemp to moisturise and smooth your lips.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Coconut oil, beeswax, shea butter, macadamia oil and Vitamin E protect , nourish and soften your lips</li>
+<li data-mce-fragment="1">100% natural ingredients with no parabens, petrochemicals, preservatives or other chemical additives</li>
+<li data-mce-fragment="1">No plastic packaging</li>
+<li data-mce-fragment="1">Locally produced to reduce YOUR carbon footprint!</li>
+</ul>
+<p><a href="https://naturalwholesalers.com/products/lip-balm-dispenser" target="_blank" data-mce-href="https://naturalwholesalers.com/products/lip-balm-dispenser">Order branded Lip Balm Dispenser &gt;</a></p>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Macadamia Oil, Sunflower Oil, Coconut Oil, Shea Butter, Beeswax, Hemp (Cannabis Indica) Oil, Vitamin E</span></p>
+<h3 data-mce-fragment="1">Directions for use</h3>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Apply the</span><strong data-mce-fragment="1"> Hemp Healing Lip Balm</strong><span data-mce-fragment="1"> to your lips in the morning and throughout the day as needed</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/6613546369102</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">20.00</s:price>
+      <s:sku>PIND009</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/6613546139726</id>
+    <published>2021-06-14T09:03:48+02:00</published>
+    <updated>2021-06-14T09:03:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/imphepho-lip-balm"/>
+    <title>Imphepho Lip Balm | Pure Indigenous</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/ImphephoLipBalmresizedimage.png?v=1625472199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Pure Indigenous'</strong> Imphepho Lip Balm soothes and protects dry lips using nourishing and healing ingredients.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Uses nourishing &amp; healing natural ingredients to moisturise &amp; nourish lips</li>
+<li data-mce-fragment="1">Leaves lips feeling silky and soft </li>
+<li data-mce-fragment="1">Also used as an antiseptic and antimicrobial to keep lips healthy</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">100% natural ingredients</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">free from</span><span data-mce-fragment="1"> parabens</span><span data-mce-fragment="1">, petro chemicals, sulfates </span><span data-mce-fragment="1">and alcohol</span>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Locally produced to reduce YOUR carbon footprint!</span></li>
+</ul>
+<p><span data-mce-fragment="1"><a href="https://naturalwholesalers.com/products/lip-balm-dispenser" target="_blank" data-mce-href="https://naturalwholesalers.com/products/lip-balm-dispenser">Order branded Lip Balm Dispenser &gt;</a></span></p>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Macadamia Oil, Sunflower Oil, Coconut Oil, Shea Butter, Mango Butter, Beeswax, Imphepho (Helichrysum Odoratissimum) Oil, Vitamin E</span></p>
+<h3 data-mce-fragment="1"><span data-mce-fragment="1">Directions for use</span></h3>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Apply the<strong data-mce-fragment="1"> Imphepho Protective Lip Balm</strong> to your lips in the morning and throughout the day as needed</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/6613546139726</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">20.00</s:price>
+      <s:sku>PIND008</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4880383606862</id>
+    <published>2021-06-10T14:52:31+02:00</published>
+    <updated>2021-06-10T14:52:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/african-calming-massage-oil-blend-pure-indigenous"/>
+    <title>African Calming Massage Oil Blend | Pure Indigenous</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Calmmassageoil.png?v=1606300881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            60.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>' African Calm Massage Oil (100ml) contains c<span data-mce-fragment="1">arefully selected indigenous essential oils to promote inner calm, tranquility and relaxation.</span></p>
+<ul>
+<li><span>Free yourself from stress and tension with this calming massage oil blend</span></li>
+<li>Used as a body oil OR a massage oil, it promotes skin's elasticity and suppleness</li>
+<li>May be used directly on skin or blended with a few drops of your preferred <strong>Pure Indigenous</strong>'s essential oil and used as a carrier oil for aromatherapy massage</li>
+</ul>
+<h3>Ingredients</h3>
+<p><span>Kenyan Frankincense, Cape Rose Geranium, African Wormwood, Cape Grape Seed Oil</span></p>
+<h3>How to use</h3>
+<p>Apply a few drops of <strong>Calm Massage Oil</strong> to the skin or hair for a nourishing treatment. All of <strong>Pure Indigenous</strong>'s carrier oils are also an ideal base to combine a few drops of essential oils for a true Aromatherapy experience. </p>
+<h3 style="display: inline !important;"></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4880383606862</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">60.50</s:price>
+      <s:sku>PIND049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2511131705402</id>
+    <published>2021-04-22T11:21:29+02:00</published>
+    <updated>2021-04-22T11:21:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/calming-room-spray-pure-indigenous"/>
+    <title>Calming Room Spray | Pure Indigenous</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/CalmRoomSpray.png?v=1619083183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>'s Calming Room Spray (100ml) h<span data-mce-fragment="1">as a gentle fragrance and a little African essential oil magic with beneficial healing properties to create blissful relaxation.</span></p>
+<ul>
+<li>Helps over-active minds, soothes anxiety, relieves stress, aids relaxation and improves mood</li>
+<li>Perfect to use in your home and also for the bedroom in the evening</li>
+<li>May also be used as a linen and pillow spray to encourage a calm mind at night</li>
+<li>Support local - manufactured in South Africa with South African ingredients</li>
+<li>Eco-friendly, sustainably-sourced and earth-conscious!</li>
+</ul>
+<h3>Ingredients</h3>
+<p>Kenyan Frankincense, Cape Rose Geranium and African Wormwood, blended in distilled water, sorbitan mono saturate and polysorbate 20 &amp; 60</p>
+<h3>How to use</h3>
+<p><span>Shake well and spray in </span><span>the house</span><span> in the car or as required. For external use only!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2511131705402</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">48.00</s:price>
+      <s:sku>PIND037</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4762246283342</id>
+    <published>2021-03-15T09:29:19+02:00</published>
+    <updated>2021-03-15T09:29:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/baobab-foot-oil-pure-indigenous"/>
+    <title>Baobab Foot Oil | Pure Indigenous</title>
+    <s:type>Hair &amp; Skin</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/BaobabFootOil.png?v=1615196784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Hair &amp; Skin<br>
+        <strong>Price: </strong>
+            63.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's</strong> Baobab Foot Oil (20ml) is deeply moisturising and repairing for dry, cracked feet.</p>
+<ul>
+<li><span>A blend of  essential oils to deeply soften and moisturise your feet</span></li>
+<li><span>Wonderful moisturising and regeneration for the soles of your feet especially for dry heels</span></li>
+<li><span>Relieves stress and inflammation from feet</span></li>
+<li><span>Derived from the fruit seeds of the iconic ‘upside down’ tree</span></li>
+</ul>
+<h3>Ingredients<br>
+</h3>
+<p><span>Artemisia Afra, African Bluegrass, Rose Geranium, African Bluegrass, Baobab oil</span></p>
+<h3><span>How to use</span></h3>
+<p><span>Massage oil into your feet, especially soles, at the end of a long day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4762246283342</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">63.50</s:price>
+      <s:sku>PIND056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4783649620046</id>
+    <published>2021-03-15T09:26:50+02:00</published>
+    <updated>2021-03-15T09:26:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/baobab-cuticle-oil-treatment-pure-indigenous"/>
+    <title>Baobab Cuticle Oil Treatment | Pure Indigenous</title>
+    <s:type>Hair &amp; Skin</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/CuticleOil.png?v=1615196677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Hair &amp; Skin<br>
+        <strong>Price: </strong>
+            71.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>'s Baobab Cuticle Oil Treatment (20ml), a regenerating mixture to revitalise dry, hardened and damaged cuticles!</p>
+<ul>
+<li>Wormwood’s anti-fungal and anti-microbial properties ensure clean and infection-free finger tips</li>
+<li>
+<span>Baobab</span><span> </span><span>oil</span><span> </span>is rich in Omega 3, 6 and 9 for deep moisturising effect</li>
+<li>Soothing and anti-inflammatory, too!</li>
+</ul>
+<h3>Ingredients</h3>
+<p>Baobab Oil, African Bluegrass, African Wormwood essential oil, Cape Rose Geranium essential oil</p>
+<h3>How to use</h3>
+<p>Massage a few drops into cuticles.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4783649620046</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">71.50</s:price>
+      <s:sku>PIND055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2501942673466</id>
+    <published>2021-02-25T09:06:55+02:00</published>
+    <updated>2021-02-25T09:06:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/happiness-body-mist-pure-indigenous"/>
+    <title>Happiness Body Mist | Pure Indigenous</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PIHappinessBodyMist2.png?v=1606290242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            33.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>' Happiness Body Mist (50ml) is an aromatic aromatherapy spray to bring lightness to your being!</p>
+<ul>
+<li>Can be used as a room spray OR a body mist, even in the car!</li>
+<li>Wonderfully-aromatic, pure and natural plant fragrances</li>
+<li>Free from parabens, sulfates and alcohol or any other artificial chemicals</li>
+<li>Uplifts your spirit and mood</li>
+<li>Locally produced to reduce YOUR carbon footprint!</li>
+</ul>
+<p>Common names for happiness: Injabulo (Zulu), Ulonwabo (Xhosa), Geluk (Afrikaans).</p>
+<h2>Ingredients</h2>
+<p>African Helichrysum Essential Oil*, Cape Rose Geranium Essential Oil, blended in water with emollients (Polysorbate 20 &amp; 60 and Sorbitan Monosaturate).<br><br><em>*Certified Organic</em></p>
+<h2>Directions for use </h2>
+<p>Use the Happiness Spray in your home, car or as a body mist. Spray as often as needed, such as in the mornings, during big events or transitions and whenever you feel a 'brain fog'.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2501942673466</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">33.50</s:price>
+      <s:sku>PIND035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4700673835086</id>
+    <published>2021-02-25T09:04:47+02:00</published>
+    <updated>2021-02-25T09:04:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/african-tranquility-massage-oil-blend-pure-indigenous"/>
+    <title>African Tranquil Massage Oil Blend | Pure Indigenous</title>
+    <s:type>Oils</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PITranquilMassageOil.png?v=1605770713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            60.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>'s Tranquility Massage Oil (100ml) contains carefully selected indigenous essential oils to help you relax and wind down.</p>
+<ul>
+<li><span>Used as a body oil OR a massage oil, it promotes skin's elasticity and suppleness</span></li>
+<li><span>May be used directly on skin or blended with a few drops of your preferred <strong>Pure Indigenous</strong>'s essential oil and used as a carrier oil for aromatherapy massage</span></li>
+<li><span>Common names for tranquility: Naziphazamiso (Zulu), Ukuchulumacha (Xhosa), Rustigheid (Afrikaans)</span></li>
+</ul>
+<h3><span>Ingredients</span></h3>
+<p class="font_8"><span>African Wormwood*, Cape Rose Geranium and Cape Snowbush* blended in cold pressed Cape Grape Seed Oil.</span></p>
+<p class="font_8"><span>* Certified Organic</span></p>
+<h3><span>Directions for use</span></h3>
+<p><span>Apply a few drops of Tranquility Massage Oil to the skin or hair for a nourishing treatment. All of Pure Indigenous's carrier oils are also an ideal base to combine a few drops of essential oils for a true Aromatherapy experience.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4700673835086</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">60.50</s:price>
+      <s:sku>PIND046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1827590438970</id>
+    <published>2021-02-17T13:55:17+02:00</published>
+    <updated>2021-02-17T13:55:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/african-helichrysum-essential-oil"/>
+    <title>African Immortelle Helichrysum Essential Oil | Pure Indigenous</title>
+    <s:type>Essential Oils</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Essential_Oil_African_Immortelle_Helic.png?v=1582554302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Essential Oils<br>
+        <strong>Price: </strong>
+            190.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's African Immortelle Helichrysum Essential Oil</strong> (10ml) is a powerful medicinal oil, commonly known by locals as Imphepho. Imphepho is traditionally used as a sedative, to promote respiratory health, deter insects and cleanse your energy and space. </p>
+<ul>
+<li>S<span>edative properties to ease insomnia</span>
+</li>
+<li><span>Soothes headaches and tension</span></li>
+<li><span>Relieves coughs, colds, fever</span></li>
+<li><span>Repels insects through fumigation</span></li>
+<li><span>Improves and heals skin conditions through its antibacterial and antiviral properties</span></li>
+<li><span>Traditionally used in rituals to bring on trance-like and meditative states</span></li>
+</ul>
+<h2><span>Ingredients</span></h2>
+<ul>
+<li>
+<strong>African Immortelle Helichrysum Essential Oil </strong>(<em>Helichrysum Odoratissimum</em>) is derived from the Greek word "helios" meaning sun and "chrysos" meaning gold, referring to the colour of the flowers in this genus. It has been used by the indigenous people throughout time in their rituals, to treat respiratory issues, as well as to induce relaxation and sleep.</li>
+</ul>
+<h2>Directions for use</h2>
+<p>Add 3 drops of<span> <strong>Africa Helichrysum</strong></span><strong> Essential Oil</strong><span> </span>to a warm bath.</p>
+<p>If you'd like to apply it on your skin or hair, add 3 drops of<span> <strong>African Helichrysum</strong></span><strong> Essential Oil</strong><span> </span>to 50 ml carrier oil of choice.</p>
+<p>To use this oil in an Aromatherapy massage, add 4-6 drops of<span> <strong>African Helichrysum</strong></span><strong> Essential Oil</strong><span> </span>to 50 ml carrier oil of choice.</p>
+<p><strong>Caution</strong>: Essential Oils should not be taken internally. Add to a carrier oil as a massage oil, rub onto temples, use as a burner oil, in the bath or as a steam inhalation. Essential oils are not recommended during pregnancy, breastfeeding or on babies/children.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oils for Energy Cleanse</s:tag>
+    <s:tag>Essential Oils for Insomnia</s:tag>
+    <s:tag>Essential Oils for Respiratory Function</s:tag>
+    <s:tag>Natural remedy for insomnia</s:tag>
+    <s:tag>Pure Indigenous</s:tag>
+    <s:tag>Pure Indigenous Aromatherapy</s:tag>
+    <s:tag>Pure Indigenous Essential Oils</s:tag>
+    <s:tag>Pure Indigenous Wholesale Distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1827590438970</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">190.50</s:price>
+      <s:sku>PIND020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4720990552142</id>
+    <published>2020-11-19T15:42:01+02:00</published>
+    <updated>2020-11-19T15:42:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/calm-bath-salts-pure-indigenous"/>
+    <title>Calm Bath Salts | Pure Indigenous</title>
+    <s:type>Bath</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/CalmBathSalt.png?v=1590760799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Bath<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>' Calm Bath Salts (130g) contain c<span>arefully selected indigenous essential oils to soothe the soul</span>.</p>
+<ul>
+<li>Add to your bath for a relaxing and fragrant experience of indigenous South African essential oils to soothe the senses</li>
+<li><span>Carefully selected indigenous essential oils for a soothing blend to promote calmness within</span></li>
+<li><span>Common names for tranquility: Ukuthula (Zulu),  Iketla (Sesotho)</span></li>
+</ul>
+<h3><span>Ingredients</span></h3>
+<p><span>Kenyan </span><span>Frankincense, African Wormwood (Artemisia Afra)* and Cape Rose, blended with Kalahari Salt</span><br><span> </span><br><span>* Certified Organic</span></p>
+<h3><span>Directions for use</span></h3>
+<p><span>Sprinkle into your warm bath. For external use only. Keep out of reach of children. Not to be used by pregnant women.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4720990552142</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4721036820558</id>
+    <published>2020-11-19T15:41:11+02:00</published>
+    <updated>2020-11-19T15:41:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/love-bath-salts-pure-indigenous"/>
+    <title>Love Bath Salts | Pure Indigenous</title>
+    <s:type>Bath</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/LoveBathSalt.jpg?v=1590763056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Bath<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>' Love Bath Salts (130g) contain c<span>arefully selected indigenous essential oils to warm the heart.</span></p>
+<ul>
+<li>Add to your bath to promote self-love, balance your mind and energy and elevate feelings of love.</li>
+<li><span>Carefully selected indigenous essential oils </span></li>
+<li>Common names for love: <span>Ukuthanda (Zulu), Uthando (Xhosa), Liefde (Afrikaans)</span>
+</li>
+</ul>
+<h3><span>Ingredients</span></h3>
+<p><span>African Wormwood (Artemisia Afra)*, Cape Rose Geranium and Cape Snowbush*, blended with Kalahari Salt.<br> <br>* Certified Organic</span></p>
+<h3><span>Directions for use</span></h3>
+<p><span>Sprinkle into your warm bath. For external use only. Keep out of reach of children. Not to be used by pregnant women.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4721036820558</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">32.00</s:price>
+      <s:sku>PIND053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1828235149370</id>
+    <published>2020-11-19T15:38:07+02:00</published>
+    <updated>2020-11-19T15:38:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/tranquility-oil-blend"/>
+    <title>Tranquility Oil Blend - Brings You Peace &amp; Harmony</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Blends_Tranquility_resizedimage.jpg?v=1534509289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            41.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's Tranquility Oil Blend</strong><span> </span><span>has been created from a selection of South African essential oils mixed in organically certified cold pressed Grape Seed oil to bring you peace and harmony.</span></p>
+<ul>
+<li>Encourages relaxation</li>
+<li>Calming and soothing</li>
+<li>Relieves physical and mental tension</li>
+<li>Balances mood</li>
+<li><span>Lifts depression, stress, anxiety and anger</span></li>
+</ul>
+<h2>Ingredients</h2>
+<ul>
+<li>
+<strong>African Helichrysum Essential Oil<span> </span></strong><span>(</span><em>Helichrysum Odoratissimum</em><span>) is derived from the Greek word "helios" meaning sun and "chrysos" meaning gold, referring to the colour of the flowers in this genus. It has been used by the indigenous people throughout time in their rituals, to treat respiratory issues, as well as to induce relaxation and sleep.</span>
+</li>
+<li>
+<strong>African Wormwood Essential Oil</strong> (<em>Artemisia Afra</em>), also known as wild wormwood, African wormwood, wilde-als and zengana, is named after the Greek goddess Artemis and is used to promote libido and ease <span>coughs, colds, flu, fever and headaches.</span>
+</li>
+<li>
+<strong>Cape Chamomile Essential Oil</strong> <em>(Eriocephalus punctulatus)</em> soothes, heals and relaxes the body and mind. It's also a great medicinal treatment for tension in the muscles.</li>
+<li>
+<strong>Rose Geranium Essential Oil</strong> (<em>Pelagonium Graveolens</em>) is known as the poor people’s Rose oil as it is less expensive than the original Rose essential oil. It's been used for centuries as a wound healer, to balance energies, to enhance moods, treat various skin ailments and last but not least, for its aromatic scents.</li>
+<li>
+<strong>Cape Snowbush Essential Oil</strong> (<em>Eriochephalus Africanus</em>), also known as the wild or African rosemary, is native to the Western and Eastern Cape provinces of South Africa and was used by the indigenous people for  emotional conditions such as depression, stress, anxiety and anger, and physical conditions such as coughs, colds/flu, muscular aches and digestion.</li>
+<li>
+<strong>Cape Grape Seed Oil</strong> has been used for thousands of years due to its benefits of toning the skin, protecting against sun damage, and reducing the appearance of blemishes, wrinkles, and stretch marks.</li>
+</ul>
+<h2>Directions for use</h2>
+<p>You can use the<span> <strong>Tranquility</strong></span><strong> Oil Blend<span> </span></strong>as an Aromatherapy <span>massage oil, to rub onto temples, use as a burner oil, in the bath or as a steam inhalation.</span></p>
+<p><span><strong>Caution</strong>: Essential oils are not recommended during pregnancy, breastfeeding or on babies/children.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oils for Stress</s:tag>
+    <s:tag>Pure Indigenous</s:tag>
+    <s:tag>Pure Indigenous Aromatherapy</s:tag>
+    <s:tag>Pure Indigenous Essential Oils</s:tag>
+    <s:tag>Pure Indigenous Wholesale Distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1828235149370</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">41.50</s:price>
+      <s:sku>PIND017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4871285571662</id>
+    <published>2020-11-11T11:12:10+02:00</published>
+    <updated>2020-11-11T11:12:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/night-bath-salts-pure-indigenous"/>
+    <title>Night Bath Salts | Pure Indigenous</title>
+    <s:type>Bath</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/NightBathSalts.png?v=1605086147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Bath<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>' Night Bath Salts (130g) contain a <span data-mce-fragment="1">gentle blend of indigenous essential oils blended in pure Kalahari salt that work to clear toxins, and allow you to relax and set aside the business of the day.</span></p>
+<ul>
+<li>Add to your bath for a soothing blend of Southern African essential oils to soothe the soul, making way for restful sleep</li>
+<li>
+<span>Eases insomnia, h</span>elps with hyperactive minds and balances fluctuating emotions</li>
+<li><span>Carefully selected indigenous essential oils to promote peaceful sleep</span></li>
+</ul>
+<h3><span>Ingredients</span></h3>
+<p>Cape Chamomile, Cape Snowbush, Rose Geranium, African Immortelle Helichrysum, Kalahari Salt</p>
+<h3><span>How to use</span></h3>
+<p><span>Sprinkle into your warm bath. For external use only. Keep out of reach of children. Not to be used by pregnant women.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4871285571662</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">32.00</s:price>
+      <s:sku>PIND052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1828158963770</id>
+    <published>2020-11-05T09:08:54+02:00</published>
+    <updated>2020-11-05T09:08:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/youth-oil-blend"/>
+    <title>Youth Oil Blend - Rejuvenates Your Spirit</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Blends_Youth_resizedimage_e03b56e4-9bf7-4702-8900-019f3a6cf888.jpg?v=1534509021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            41.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's Youth Oil Blend (20 ml)</strong> <span>has been created from a selection of South African essential oils mixed in organically certified cold pressed Grape Seed oil to rejuvenate your spirit.</span></p>
+<ul>
+<li>Relaxes your mind, body and spirit</li>
+<li>Encourages your energy to naturally be stimulated and function optimally</li>
+<li>Puts a spring in your step</li>
+</ul>
+<h2><span>Ingredients</span></h2>
+<ul>
+<li>
+<strong>African Wormwood Essential Oil</strong> <span>(</span><em>Artemisia Afra</em><span>), also known as wild wormwood, African wormwood, wilde-als and zengana, is named after the Greek goddess Artemis and is used as a love charm and promotes libido.</span>
+</li>
+<li>
+<strong>Cape Buchu Essential Oil</strong><span> (</span><span><em>Agathosma Betulina</em>), also known as mountain buchu, bookoo, buku and bucco, is extracted from the dried leaves by steam distillation. It helps alleviates arthritis, rheumatism and joint stiffness/pain and purifies the body of toxins.</span>
+</li>
+<li>
+<strong>Cape Chamomile Essential Oil</strong> <em>(Eriocephalus punctulatus)</em> soothes, heals and relaxes the body and mind. It's also a great medicinal treatments for tension in the muscles.</li>
+<li>
+<strong>Rose  Geranium Essential Oil</strong> <span>(</span><span><em>Pelagonium Graveolens</em>) is known as the poor people’s Rose oil as it is less expensive than the original Rose essential oil. The plant is indigenous to the Cape Province of South Africa and is extracted from the flowers. It's been used for centuries as a wound healer, to balance energies, to enhance moods, treat various skin ailments and last but not least, for its aromatic scents.</span>
+</li>
+<li>
+<strong>Grape Seed Oil </strong>has been used for thousands of years due to its benefits of toning the skin, protecting against sun damage, and reducing the appearance of blemishes, wrinkles, and stretch marks.</li>
+</ul>
+<h2>Directions of use</h2>
+<p>You can use the <strong>Youth Oil Blend </strong>as an Aromatherapy <span>massage oil, to rub onto temples, use as a burner oil, in the bath or as a steam inhalation.</span></p>
+<p><span><strong>Caution</strong>: Essential oils are not recommended during pregnancy, breastfeeding or on babies/children.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural remedy for energy</s:tag>
+    <s:tag>Pure Indigenous</s:tag>
+    <s:tag>Pure Indigenous Aromatherapy</s:tag>
+    <s:tag>Pure Indigenous Essential Oils</s:tag>
+    <s:tag>Pure Indigenous Wholesale Distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1828158963770</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">41.50</s:price>
+      <s:sku>PIND019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1839036760122</id>
+    <published>2020-10-15T17:24:34+02:00</published>
+    <updated>2020-10-15T17:24:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/abundance-potion"/>
+    <title>Abundance Oil Potion - Attracts All Good Things Into Your Life</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Potion_Abundance_resizedimage.jpg?v=1543579578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            64.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's Abundance Potion (20 ml)</strong><span> </span><span>has been created from a selection of South African essential oils mixed in organically certified cold pressed Grape Seed oil to attract an abundance of all things good into your life.</span></p>
+<ul>
+<li>Brings upon a state of relaxation</li>
+<li>Opens your body's energy centres to receive blessings</li>
+<li>Balances your thoughts and emotions</li>
+<li>Promotes positive thinking</li>
+<li>Gets rid of negative energy internally and externally</li>
+</ul>
+<h2><span>Ingredients</span></h2>
+<ul>
+<li>
+<strong>African Wormwood Essential Oil</strong><span> (</span><em>Artemisia Afra</em><span>), also known as wild wormwood, African wormwood, wilde-als and zengana, is believed to have magical properties.</span>
+</li>
+<li>
+<strong>Cape Chamomile Essential Oil</strong><span> </span><em>(Eriocephalus punctulatus)</em><span> soothes, heals and relaxes the body and mind. It's also a great medicinal treatment for tension in the muscles.</span>
+</li>
+<li>
+<strong>Rose Geranium Essential Oil</strong><span> (</span><em>Pelagonium Graveolens</em><span>) is known as the poor people’s Rose oil as it is less expensive than the original Rose essential oil. It's been used for centuries as a wound healer, to balance energies, to enhance moods, treat various skin ailments and last but not least, for its aromatic scents.</span>
+</li>
+<li>
+<strong>African Lemon Bush</strong> <strong>Essential Oil</strong><span> (</span><span><em>Lippia Javanica</em>) also known as Koorsbossie/Lemoenbossie and Fever Tea/Lemon Bush/Cape Verbena, is a is one of the most fresh-smelling oils that stimulates brain functioning, s</span>harpens cognitive functions, uplifts moods and is used to cleanse auras.</li>
+<li>
+<strong>Cape Grape Seed Oil</strong> has been used for thousands of years due to its benefits of toning the skin, protecting against sun damage, and reducing the appearance of blemishes, wrinkles, and stretch marks.</li>
+</ul>
+<h2>Directions for use</h2>
+<p>You can use the<span> <strong>Abundance Potion</strong></span><strong><span> </span></strong>as an Aromatherapy <span>massage oil, to rub onto temples, use as a burner oil, in the bath or as a steam inhalation.</span></p>
+<p><span><strong>Caution</strong>: Essential oils are not recommended during pregnancy, breastfeeding or on babies/children.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pure Indigenous</s:tag>
+    <s:tag>Pure Indigenous Aromatherapy</s:tag>
+    <s:tag>Pure Indigenous Essential Oils</s:tag>
+    <s:tag>Pure Indigenous Wholesale Distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1839036760122</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">64.50</s:price>
+      <s:sku>PIND010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1822274158650</id>
+    <published>2020-10-15T17:20:13+02:00</published>
+    <updated>2020-10-15T17:20:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/imphepho-room-spray"/>
+    <title>Imphepho Room Spray - Energy Cleanser &amp; Insect Repellent</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PIImphephoRoomSpray.png?v=1605771462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's Imphepho Room Spray (140 ml)</strong> contains pure and natural plant fragrances extracted from the Imphepho plant to clear your energy and space. It can also be used as an effective natural insect repellent.</p>
+<ul>
+<li>Can be used as a room spray OR a body mist</li>
+<li>Free from parabens, sulfates and alcohol</li>
+<li>Deters insects</li>
+<li>Cleanses your energy and space</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Imphepho Room Spray is indigenous to and extracted in South Africa, using the most organic and eco-friendly methods and following ingredients:</p>
+<ul>
+<li>
+<strong>Aqua</strong>, also known as distilled water or deionized water, is water that's had its mineral ions removed. Because the majority of water impurities are dissolved salts, once the water has gone through the distillation or deionization process, you're left with high purity water.</li>
+<li>
+<strong>Imphepho (Helichrysum Odoratissimum) </strong>is considered a sacred herb which has been used extensively as an energy protector and cleanser and has been widely used to deter insects from mattresses, cupboards and your immediate environment.</li>
+</ul>
+<h2>Directions for use</h2>
+<p>If you're using the <strong>Imphepho Room Spray</strong> to cleanse your space, you can give a few sprays to the areas you feel need it. Use as often as you feel necessary to clear out your energy or your home's energy. </p>
+<p>You can also use the <strong>Imphepho Room Spray</strong> as an insect repellent to deter mosquitoes, flies, bed bugs, ants and other creepy crawlies. Use the spray on your mattress, in your cupboards, on the curtains or wherever the insect problem is.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy Room Spray</s:tag>
+    <s:tag>Imphepho Room Spray</s:tag>
+    <s:tag>Plant Fragrance</s:tag>
+    <s:tag>Pure Indigenous</s:tag>
+    <s:tag>Pure Indigenous Wholesale Distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1822274158650</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">40.00</s:price>
+      <s:sku>PIND033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1831005323322</id>
+    <published>2020-08-27T10:00:59+02:00</published>
+    <updated>2020-08-27T10:00:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/luck-potion"/>
+    <title>Luck Oil Potion - Attracts Blessings &amp; Good Luck</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Potion_Luck_resizedimage.jpg?v=1534517395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            41.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's Luck Potion (20 ml)</strong><span> combines myth and magic, </span><span>based on traditional use by our people and their powers ascribed to African folklore. This potion been mixed in organically certified cold pressed Grape Seed oil from the Cape to draw blessings and good luck.</span></p>
+<ul>
+<li>Helps calm and soothe your mind</li>
+<li>Allows you to acknowledge your abundance of blessings already present in your life</li>
+<li>Balances your energy to allow a gateway opening for more gifts and good luck</li>
+</ul>
+<h2><span>Ingredients</span></h2>
+<ul>
+<li>
+<strong>African Helichrysum</strong> <strong>Essential Oil </strong>(<em>Helichrysum Odoratissimum</em>) is derived from the Greek word "helios" meaning sun and "chrysos" meaning gold, referring to the colour of the flowers in this genus. It has been used by the indigenous people throughout time in their rituals to cleanse energy and space, as well as bring upon a meditative state.</li>
+<li>
+<strong>Cape Chamomile Essential Oil</strong> <em>(Eriocephalus punctulatus)</em> soothes, heals and relaxes the body and mind. It acts as a powerful anti-inflammatory with a mild sedative effect.</li>
+<li>
+<strong>Rose-scented Geranium Essential Oil</strong> (<em>Pelagonium Graveolens</em>) is known as the poor people’s Rose oil as it is less expensive than the original Rose essential oil. The plant is indigenous to the Cape Province of South Africa and is extracted from the flowers. It's been used for centuries as a wound healer, to balance energies, to enhance moods and last but not least, for its sweet aromatic scents.</li>
+<li>
+<strong>Cape Grape Seed Oil </strong>has been used for thousands of years due to its benefits of toning the skin, protecting against sun damage, and reducing the appearance of blemishes, wrinkles, and stretch marks.</li>
+</ul>
+<h2>Directions for use</h2>
+<p>You can use the<span> <strong>Luck Potion</strong></span><strong><span> </span></strong>as an Aromatherapy <span>massage oil, to rub onto temples, use as a burner oil, in the bath or as a steam inhalation.</span></p>
+<p><span><strong>Caution</strong>: Essential oils are not recommended during pregnancy, breastfeeding or on babies/children.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pure Indigenous</s:tag>
+    <s:tag>Pure Indigenous Aromatherapy</s:tag>
+    <s:tag>Pure Indigenous Essential Oils</s:tag>
+    <s:tag>Pure Indigenous Wholesale Distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1831005323322</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">41.50</s:price>
+      <s:sku>PIND013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2511002370106</id>
+    <published>2020-07-20T18:01:20+02:00</published>
+    <updated>2020-07-20T18:01:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/fertility-potion-massage-oil-pure-indigenous"/>
+    <title>Fertility Potion Massage Oil | Pure Indigenous</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PIFertilityPotionMassageoil3.png?v=1606290004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            60.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>'s Fertility Potion (100ml) is an exotic blend of indigenous South African essential oils, made with conception and intimacy in mind!</p>
+<ul>
+<li>Use to create the perfect atmosphere of love, affection and fertility</li>
+<li>Cape Chamomile is a calming fynbos essential oil that helps soothe over-active minds and relieve anxiety</li>
+<li>Cape Rose Geranium reduces stress, aids relaxation and improves mood</li>
+<li>African Wormwood is a well-known traditional love charm</li>
+<li>Helichrysum, one of the everlasting family of flowering plants, has been used since ancient times to clear negativity and draw the goodwill of the ancestors</li>
+<li>African Frankincense is thrown into the exotic mix to further relieve anxiety, balance hormones and improve fertility</li>
+</ul>
+<h3 style="display: inline !important;">Ingredients</h3>
+<p>Cape Chamomile Essential Oil, Frankincense Essential Oil, Helichrysum Odoratissimum Essential Oil, Cape Rose Geranium Essential Oil, African Wormwood Essential Oil, Grape Seed Oil</p>
+<h3>Directions for use</h3>
+<p>To use as a massage oil, pour a liberal amount in the palms of your hand,<br>warm up the oil by rubbing hands together and then massage into the body. Can also be added to your bath or a burner.<br>Avoid contact with eyes. For external use only. Not to be used by pregnant women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2511002370106</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">60.50</s:price>
+      <s:sku>PIND036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1826710978618</id>
+    <published>2020-06-22T18:03:04+02:00</published>
+    <updated>2020-06-22T18:03:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/african-wormwood-essential-oil-cough-and-fever-relief"/>
+    <title>African Wormwood Essential Oil - Cough and Fever Relief</title>
+    <s:type>Essential Oils</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Essential_Oil_African_Wormwood.png?v=1582554358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Essential Oils<br>
+        <strong>Price: </strong>
+            119.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's African Wormwood Essential Oil (10ml)</strong> is believed to have magical properties, particularly as a love charm. Common uses of <strong>African Wormwood Essential Oil</strong> include relief from coughs, colds, flu, fever and headaches when inhaled. It's also widely used as an insect repellent.</p>
+<ul>
+<li>Eases coughs, blocked nasal passages and tight chests when inhaled</li>
+<li>Relieves headaches, fever and flu</li>
+<li>Rids feet and shoes of bad odor </li>
+<li>Is thought to promote libido</li>
+<li>Heals wounds and insect bites</li>
+<li>Moth repellent and natural insecticide spray</li>
+</ul>
+<h2>Ingredients</h2>
+<ul>
+<li>
+<strong>African Wormwood Oil</strong> (<em>Artemisia Afra</em>), also known as wild wormwood, African wormwood, wilde-als and zengana, is named after the Greek goddess Artemis. It's<span> a common species in South Africa and a popular medicinal plant. </span>
+</li>
+</ul>
+<h2><span>Directions for use</span></h2>
+<p><span>Place a few drops of <strong>African Wormwood Essential Oil</strong> in your shoes or socks to combat bad smell.</span></p>
+<p><span>Use a few drops of oil with steam inhalation if you have a cold, flu, fever, cough, headache or nasal congestion.</span></p>
+<p><span><strong>Caution</strong>: Essential oils should not be taken internally. Add to a carrier oil as a massage oil, rub onto temples, use as a burner oil or as a steam inhalation. Essential oils are not recommended during pregnancy, breastfeeding or on babies/children.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy oils for congestion</s:tag>
+    <s:tag>Pure Indigenous</s:tag>
+    <s:tag>Pure Indigenous Aromatherapy</s:tag>
+    <s:tag>Pure Indigenous Essential Oils</s:tag>
+    <s:tag>Pure Indigenous Wholesale Distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1826710978618</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">119.50</s:price>
+      <s:sku>PIND023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1827152625722</id>
+    <published>2020-06-22T18:01:42+02:00</published>
+    <updated>2020-06-22T18:01:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/cape-gold-helichrysum-essential-oil"/>
+    <title>Cape Gold Helichrysum Essential Oil - Energy Cleanse and Anti-Microbe</title>
+    <s:type>Essential Oils</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Essential_Oil_Cape_Gold_Helichrysum.png?v=1582554407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Essential Oils<br>
+        <strong>Price: </strong>
+            151.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's Cape Gold Helichrysum Essential Oil (10 ml)</strong> is an effective anti-inflammatory, anti-microbe, <span>relieves stress and has been used as a powerful energy cleanser throughout time.</span></p>
+<ul>
+<li>Relieves pains and rheumatism </li>
+<li>Protects against skin infections, ageing and scars</li>
+<li>Relieves bronchial congestion</li>
+<li>Traditionally used in rituals to invoke trance and to connect with ancestors</li>
+<li>Clear spaces of negative energy</li>
+</ul>
+<h2>Ingredients</h2>
+<ul>
+<li>
+<strong>Cape Gold Helichrysum Essential Oil</strong> (<span><em>Helichrysum Splendidum</em>), also known as Cape Gold, is locally grown and produced and has been used throughout time in rituals, to relieve respiratory conditions and as a powerful anti-microbe.</span>
+</li>
+</ul>
+<h2><span>Directions for use</span></h2>
+<p>Add 3 drops of<span> <strong>Cape Gold Helichrysum</strong></span><strong> Essential Oil</strong><span> </span>to a warm bath.</p>
+<p>If you'd like to apply it on your skin or hair, add 3 drops of<span> <strong>Cape Gold Helichrysum</strong></span><strong> Essential Oil</strong><span> </span>to 50 ml carrier oil of choice.</p>
+<p>To use this oil in an Aromatherapy massage, add 4-6 drops of<span> <strong>Cape Gold Helichrysum</strong></span><strong> Essential Oil</strong><span> </span>to 50 ml carrier oil of choice.</p>
+<p><strong>Caution</strong>: Essential Oils should not be taken internally. Add to a carrier oil as a massage oil, rub onto temples, use as a burner oil, in the bath or as a steam inhalation. Essential oils are not recommended during pregnancy, breastfeeding or on babies/children.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy oils for congestion</s:tag>
+    <s:tag>Essential Oils for Energy Cleanse</s:tag>
+    <s:tag>Pure Indigenous</s:tag>
+    <s:tag>Pure Indigenous Aromatherapy</s:tag>
+    <s:tag>Pure Indigenous Essential Oils</s:tag>
+    <s:tag>Pure Indigenous Wholesale Distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1827152625722</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">151.00</s:price>
+      <s:sku>PIND021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4574791237710</id>
+    <published>2020-06-22T18:00:09+02:00</published>
+    <updated>2020-06-22T18:00:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/namibian-myrrh-essential-oil-pure-indigenous"/>
+    <title>Namibian Myrrh Essential Oil | Pure Indigenous</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Essential_Oil_Namibian_Myrrh.png?v=1582808966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            119.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>'s Namibian Myrrh (Commiphora Wildii) essential Oil 10ml is ourced from trees in the North Western Namibian desert where the resin is wild harvested! </p>
+<ul>
+<li>Common names: Corkwood, Commiphora, Kanniedood (Afrikaans)</li>
+<li>Myrrh helps to uplift the spirits and creates a sacred sense of calm</li>
+<li>Traditionally used for its antibacterial, antifungal and antiseptic properties (great for acne, mouthwashes, wounds, colds, etc.)</li>
+<li>Helps with bruising, sprains, arthritic pains and aches</li>
+<li>The resin is steam distilled to release the essential oil with its slightly woody spicy fragrance</li>
+</ul>
+<h3>Ingredients</h3>
+<p>100% pure Namibian Myrrh essential oil</p>
+<h3>How to use</h3>
+<ul>
+<li>To use in Aromatherapy massage, add 4 - 6 drops to 50 ml carrier oil of choice</li>
+<li>Use in an oil burner or in a cold mist diffuser for a beautifully relaxing aroma to refresh your room or immediate space</li>
+<li>Inhaling steam with the essential oil relieves coughs and calms the mind</li>
+</ul>
+<ul></ul>
+<p><strong>Caution</strong><span>: Essential Oils should not be taken internally. Add to a </span><a href="https://www.feelgoodhealth.co.za/collections/aromatherapy-hand-blended-massage-oils" target="_blank" title="Collection of Natural and Organic Carrier Oils" rel="noopener noreferrer">carrier oil</a><span> as a massage oil, rub onto temples, use as a burner oil, in the bath or as a steam inhalation. Essential oils are not recommended during pregnancy, breastfeeding or on small babies.</span></p>
+<p> </p>
+<p> </p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4574791237710</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">119.50</s:price>
+      <s:sku>PIND042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1828206411834</id>
+    <published>2020-06-22T17:59:04+02:00</published>
+    <updated>2020-06-22T17:59:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/winter-oil-blend"/>
+    <title>Winter Oil Blend - Soothes Winter Ailments</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Blends_Winter_resizedimage_14bb498c-fec2-4857-9745-a2c320aa3115.jpg?v=1534509172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            41.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous's Winter Oil Blend</strong><span> (20ml) </span><span>has been created from a selection of South African essential oils mixed in organically certified cold pressed Grape Seed oil to soothe Winter's ailments.</span></p>
+<ul>
+<li>Soothing chest rub</li>
+<li>Decongestant for respiratory tract</li>
+<li>Provides relief from coughs, colds, flu, fever and headaches</li>
+<li>Uplifts your mood in a gentle, natural manner</li>
+</ul>
+<h2><span>Ingredients</span></h2>
+<ul>
+<li>
+<strong>African Helichrysum Essential Oil<span> </span></strong><span>(</span><em>Helichrysum Odoratissimum</em><span>) is derived from the Greek word "helios" meaning sun and "chrysos" meaning gold, referring to the colour of the flowers in this genus. It has been used by the indigenous people throughout time in their rituals, to treat respiratory issues, as well as to induce relaxation and sleep.</span>
+</li>
+<li>
+<strong>African Wormwood Essential Oil</strong> (<em>Artemisia Afra</em>), also known as wild wormwood, African wormwood, wilde-als and zengana, is named after the Greek goddess Artemis and is used to provide <span>relief from coughs, colds, flu, fever and headaches.</span>
+</li>
+<li>
+<strong>African Lemon Bush Essential Oil </strong>(<em>Lippia Javanica</em>) also known as Koorsbossie/Lemoenbossie and Fever Tea/Lemon Bush/Cape Verbena, is a is one of the most fresh-smelling oils that stimulates brain functioning and soothes flu-related ailments.</li>
+<li>
+<strong>Cape Grape Seed Oil </strong><span>has been used for thousands of years due to its benefits of toning the skin, protecting against sun damage, and reducing the appearance of blemishes, wrinkles, and stretch marks.</span>
+</li>
+</ul>
+<h2><span>Directions for use</span></h2>
+<p>You can use the<span> <strong>Winter</strong></span><strong> Oil Blend<span> </span></strong>as an Aromatherapy <span>massage oil, to rub onto temples, use as a burner oil, in the bath or as a steam inhalation.</span></p>
+<p><span><strong>Caution</strong>: Essential oils are not recommended during pregnancy, breastfeeding or on babies/children.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oils for Flu</s:tag>
+    <s:tag>Essential Oils for Respiratory Function</s:tag>
+    <s:tag>Pure Indigenous</s:tag>
+    <s:tag>Pure Indigenous Aromatherapy</s:tag>
+    <s:tag>Pure Indigenous Essential Oils</s:tag>
+    <s:tag>Pure Indigenous Wholesale Distributor South Africa</s:tag>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1828206411834</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">41.50</s:price>
+      <s:sku>PIND018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4720865476686</id>
+    <published>2020-05-29T14:24:57+02:00</published>
+    <updated>2020-05-29T14:24:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/tranquil-bath-salts-pure-indigenous"/>
+    <title>Tranquil Bath Salts | Pure Indigenous</title>
+    <s:type>Bath</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/TranquilBathSalts.png?v=1590756254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Bath<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>' Tranquil Bath Salts (130g) contain c<span>arefully selected indigenous essential oils to c</span>onnect with inner peace and calm.</p>
+<ul>
+<li>Add to your bath for a relaxing and fragrant experience of indigenous South African essential oils to soothe the senses</li>
+<li><span>Carefully selected indigenous essential oils to promote tranquility</span></li>
+<li><span>Common names for tranquility: Naziphazamiso (Zulu), Ukuchulumacha (Xhosa), Rustigheid (Afrikaans)</span></li>
+</ul>
+<h3><span>Ingredients</span></h3>
+<p><span>African Immortelle Helichrysum (Imphepho), African Wormwood (Artemisia Afra)*, Cape<br>Rose Geranium and Cape Snowbush* blended with Kalahari Salt</span></p>
+<p><span>*Certified organic</span></p>
+<h3><span>Directions for use</span></h3>
+<p><span>Sprinkle into your warm bath. For external use only. Keep out of reach of children. Not to be used by pregnant women.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4720865476686</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">32.00</s:price>
+      <s:sku>PIND051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4720828285006</id>
+    <published>2020-05-29T14:24:57+02:00</published>
+    <updated>2020-05-29T14:24:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/happy-bath-salts-pure-indigenous"/>
+    <title>Happy Bath Salts | Pure Indigenous</title>
+    <s:type>Bath</s:type>
+    <s:vendor>Pure Indigenous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/HappyBathSalts.jpg?v=1590755475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Indigenous<br>
+        <strong>Type: </strong>Bath<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pure Indigenous</strong>' Happy Bath Salts (130g) contain c<span>arefully selected indigenous essential oils to elevate your mood.</span></p>
+<ul>
+<li>Add to your bath for an uplifting and mood-enhancing fragrant blend</li>
+<li><span>Connect with the warmth of the African sun and uplift your spirit</span></li>
+<li>
+<span>Common names for happiness: </span><span>Injabulo (Zulu), Ulonwabo (Xhosa), Geluk (Afrikaans)</span>
+</li>
+</ul>
+<h3><span>Ingredients</span></h3>
+<p><span>African Immortelle Helichrysum (Imphepho) and Cape Rose Geranium blended with Kalahari Salt</span></p>
+<h3><span>Directions for use</span></h3>
+<p><span>Sprinkle into your warm bath. For external use only. Keep out of reach of children. Not to be used by pregnant women.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4720828285006</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">32.00</s:price>
+      <s:sku>PIND050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

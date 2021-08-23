@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://naturalwholesalers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://naturalwholesalers.com/collections/pet-shampoos-grooming.atom"/>
+  <title>Natural Wholesalers </title>
+  <updated>2021-08-06T16:33:44+02:00</updated>
+  <author>
+    <name>Natural Wholesalers </name>
+  </author>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1838814068794</id>
+    <published>2021-08-06T16:33:44+02:00</published>
+    <updated>2021-08-06T16:33:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pets-natural-itch-relief-spray-hot-spots"/>
+    <title>Itch Relief Spray - Calms and Soothes Itchy Skin</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PNPBodySprayItchReliefwmint.png?v=1605777672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            48.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Natura Pets Natural Itch Relief Spray</strong> is a herbal spray containing Aloe Vera, Neem Oil, Calendula Extract and pure essential oils formulated to soothe and cool the skin, while essential oils relieve irritated skin and reduce itching (250 ml)</span></p>
+<ul>
+<li>100% natural ,chemical free eco friendly anti-itch spray</li>
+<li>Powerful <span>antiviral, antifungal and antiseptic benefits</span>
+</li>
+<li><span>Helps itching, irritated skin, rashes, hot spots, ringworm and other skin problems</span></li>
+<li>Soothes and cools the skin and brings healing and relief</li>
+<li>Pleasant herbal smell with non-sticky ingredients</li>
+<li>Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<h3>Ingredients</h3>
+<div>
+<div>Aqua, Aloe Vera (Aloe barbadensis), Calendula Oil Infused (Calendula officinalis Extract), Neem Oil (Melia azadirachta), Castor Oil (Ricinus communis), Vegetable Glycerin, Coconut based cleaning agents, Eucalyptus Oil (Eucalyptus Smithii), Peppermint Oil (Mentha piperita), Tea Tree Oil (0.2% Melaleuca alternifolia),  Niaouli Oil (Melaleuca viridiflora), Cedarwood Oil (Cedrus atlantica Bark), Sodium Bicarbonate, Natural Preservatives (Ecocert Approved)</div>
+<div></div>
+</div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>(<strong>NB - Not for use on cats</strong>!) Easy to use! Shake well! Simple spray between the fur right on to the irritated skin (avoiding eye and mouth areas). Massage in gently. Don’t forget to reward with a treat! May be applied several times a day to soothe irritations. Repeat daily as needed for desired results.  Avoid contact with eyes. If in eye, flush with water. If irritation persists contact a veterinarian. Store in a dark, cool place. Keep out of reach of children.</span></p>
+<p><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natura Pets Anti-Itch Relief Spray</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:tag>Stop dogs itching</s:tag>
+    <s:tag>Treat dog ringworm</s:tag>
+    <s:tag>Treat hot spots</s:tag>
+    <s:tag>Treatement for dog fungal infections on skin</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1838814068794</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">48.50</s:price>
+      <s:sku>NP013</s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1838742143034</id>
+    <published>2021-06-08T12:11:54+02:00</published>
+    <updated>2021-06-08T12:11:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pets-lavender-detangler-deodorant-conditions-untangles-fur"/>
+    <title>Detangler Deodorant Coat Spray: Untangles fur &amp; deodorises | Natura Pet</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PNPCalmingCoatSpray.png?v=1605774256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            50.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pets Lavender Detangler Spray </strong>conditions and deodorises your pet's coat, leaving it easy to brush and smelling gorgeous! Use anytime or after bathing or swimming. Contains 100% natural ingredients (250 ml) </p>
+<ul>
+<li>Helps to smooth &amp; soften the coat so it is easy to comb through - perfect for long haired breeds!</li>
+<li>Natural fur and skin deodoriser makes those furry snuggles even sweeter!</li>
+<li>Use after bathing, swimming and even in-between baths as a natural pet deodorant</li>
+<li>100% natural ingredients -<span> </span><span>contains no soap, parabens, sulfates, petroleum-based Ingredients, artificial fragrances, SLS, DEA, synthetic dyes, perfumes or anything that would harm your pet or the environment!</span>
+</li>
+<li>Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<h3>Ingredients</h3>
+<div>
+<p><span>Aqua, Renewable coconut-based cleansers, Vegetable Glycerin, Aloe Vera, Macadamia Oil, Lavender Essential Oil, Vitamin-E, Sodium Bicarbonate, Natural Preservatives </span></p>
+</div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>Easy to use! Shake well. Spray directly onto your pet’s wet or dry fur holding the bottle about 5 -10 cm away from the fur and massage lightly into the skin and coat. Leave the mixture on without rinsing. Brush to provide softness and shine to pet’s coat. Lightly pull apart and separate the hair and then use a brush to patiently work the knot loose. Avoid spraying on the head and contact with eyes (you can spray on the outside of ears though). If product gets into the eyes, flush with water. If irritation persists contact a veterinarian. Store in a dark, cool place. Keep out of reach of children.</span></p>
+<p><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natura Pets Lavender Deo-Deodorising Spray</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:tag>Untangle dogs hair</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1838742143034</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">50.50</s:price>
+      <s:sku>NPDS001</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1796383014970</id>
+    <published>2021-05-11T14:52:53+02:00</published>
+    <updated>2021-05-11T14:52:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pet-all-natural-dog-hypo-allergen-conditioner"/>
+    <title>Deep Conditioner for Dogs | Natura Pet</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/DeepConditioner.png?v=1623766445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            54.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pets</strong> <strong>Hypo Allergen Dog Conditioner</strong> is a natural chemical-free environmentally friendly deep conditioner for dogs with allergy-prone skin. M<span>oisturizes and conditions the fur and leaves your dog’s coat super soft and silky, without irritating sensitive, damaged or itchy skin. (495 ml)</span></p>
+<ul>
+<li>Leaves coat super silky and easy to brush</li>
+<li>Ideal for dogs with dry, damaged skin or long coats</li>
+<li>Finest 100% natural ingredients, including organic coconut oil, macadamia nut oil, shea butter and soothing oatmeal</li>
+<li>pH value is formulated for pets (pH7)</li>
+<li>Paraben, Sulphate and Soap free</li>
+<li>Use with Natura Pets Itch Relief Shampoo</li>
+</ul>
+<h3>Ingredients</h3>
+<div>
+<p>Aqua, Renewable coconut-based conditioner, Vegetable Glycerin, Coconut Oil, Castor Oil, Shea Butter, Macadamia Oil, Avocado Oil, Jojoba Oil, Xantan Gum, Citric acid, Natural Preservatives (Ecocert approved) </p>
+<h3>How to Use</h3>
+</div>
+<p><span>Safe for use on dogs, cats, horses and humans. After bathing, while your pet is still wet, massage Natura Pets Conditioner gently and generously into the skin and coat. Allow the formula to soak in for a few minutes (we recommend giving your best friend a little massage to keep him calm and happy) and then rinse off thoroughly. After rinsing, dry off with thick towel. Avoid contact with eyes and ears!! This product is for external use only. Store in a dark, cool place.</span></p>
+<p><span></span><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natura Pet Hypo Allergen Natural Dog Conditioner</s:tag>
+    <s:tag>Natural Dog Conditioner</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1796383014970</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">54.50</s:price>
+      <s:sku>NPC002</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4828636610638</id>
+    <published>2021-04-16T08:58:54+02:00</published>
+    <updated>2021-04-16T08:58:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/ohm-organic-neem-oil-for-skin-hair-garden-and-home"/>
+    <title>Ohm Organic Neem Oil (for skin, hair, garden AND home!)</title>
+    <s:type>Oils</s:type>
+    <s:vendor>Natural Wholesalers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Neemoil.png?v=1599732525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natural Wholesalers<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Ohm Oil</strong>'s Neem Oil (50ml) <span data-mce-fragment="1">is an age-old popular ingredient </span><span data-mce-fragment="1">used in skin care, hair care, in gardens, and home products.</span>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Antibacterial, antimicrobial, biopesticide, insecticide, insect repellent and fungicide for skin, scalp, gardens and home</span></li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">Effective and p</span><span data-mce-fragment="1">opular non-toxic lice treatment</span>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">A natural alternative to chemical flea and mites control (for dogs only)</span></li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">Effective garden and home pest control - biodegradable and non-toxic to wildlife, mammals, birds, earthworms, or beneficial insects such as butterflies, bees and ladybirds - w</span>ill not pollute ground water</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Powerful antioxidant, moisturiser and revitaliser</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Healing for acne-prone skin types and problematic skin (redness, itchiness and irritations like eczema and various dermatitis)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Good for dry skin and dandruff</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Redcues pigmentation and scars</span></li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">Protects skin against infections, </span>boils and ulcers</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Locally produced to reduce your carbon footprint!</span></li>
+</ul>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<p data-mce-fragment="1">Pure organic Neem Oil</p>
+<h3 data-mce-fragment="1">How to use</h3>
+<p data-mce-fragment="1">Can be used directly on hair and skin, or you can add it to your cosmetic products. Perfect to mix into sprays to be used in the garden and home.</p>
+<p data-mce-fragment="1">Neem Oil is often diluted with other carrier oils, but for head lice treatments, it's best to use on its own. Massage into scalp and comb through the hair with a fine tooth comb, removing any lice or nits in this process. Wrap the hair in plastic or a shower cap and leave on for an hour or longer. Remove the Neem Oil with shampoo. Repeat this procedure 2-3 times per week until the nits and lice are no longer present.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4828636610638</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">50.00</s:price>
+      <s:sku>OM022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1796417191994</id>
+    <published>2021-04-09T08:46:01+02:00</published>
+    <updated>2021-04-09T08:46:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pet-all-natural-dog-cat-ear-cleanser-prevents-infection-cleans-ears"/>
+    <title>Ear Cleanser for dogs and cats</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PNPEarCleanerwRosemary.png?v=1605774590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            49.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pets</strong> <strong>All Natural Pet Ear Cleanser </strong>will safely clean your pet's ears while relieving<span> the discomfort of itchy, smelly and dirty ears. The soothing natural ingredients will condition and moisturize, and help to prevent future infections.(195 ml)</span></p>
+<ul>
+<li>100% natural cleanser safely removes ear wax, debris and unpleasant odours</li>
+<li>Regular use helps to keep pet ears infection-free</li>
+<li>Safe, non-toxic and non-irritating, even for dogs and cats with allergies and sensitive ears</li>
+<li>Soothing organic oils, Aloe vera and Witch Hazel combine to create a healthy ear environment</li>
+<li>Gentle enough for to use daily if you need to, as well as after swimming and baths</li>
+<li>Clean, non-sticky ingredients</li>
+<li>Eco-friendly, Chemical and Alcohol-free</li>
+</ul>
+<h3>Ingredients</h3>
+<div>
+<div>
+<div>Aqua, Renewable coco nut-based cleanser, Vegetable Glycerin, Aloe Vera (Aloe barbadensis), Calendula Oil Infused (Calendula officinalis Extract), Witch Hazel (Hamamelis virginiana), Castor Oil (Ricinus communis), Coconut Oil (Capric Triglyceride), Rosemary Essential Oil (Rosmarinus officinalis), Sodium Bicarbonate, Natural Preservatives (Ecocert Approved)</div>
+<div></div>
+</div>
+<div></div>
+<div></div>
+</div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>Shake well. Squeeze onto cotton ball and gently clean ear and ear canal. If it is needed, apply generously to fill ear canal. Gently massage the base of the canal for 30-60 seconds to loosen wax. Attempt to clean ear with clean cotton ball. Let your dog to shake his or her head after cleaning. Don’t forget to reward with a treat! Repeat 2–3 times a week as needed or after swimming or bathing. Do not use the same cotton ball or swab in each ear. Never insert swabs or sharp objects into pet’s ears. This product is for use in ear only. Avoid contact with eyes. If in eye, flush with water. If irritation persists contact a veterinarian. Store in a dark, cool place. Keep out of reach of children</span></p>
+<p><span></span><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>How to clean cats ears</s:tag>
+    <s:tag>How to clean dogs ears</s:tag>
+    <s:tag>How to stop smelly ears in cats</s:tag>
+    <s:tag>How to stop smelly ears in dogs</s:tag>
+    <s:tag>Natura Pets Natural Ear Cleanser</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1796417191994</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">49.50</s:price>
+      <s:sku>NPEAC001</s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4594740166734</id>
+    <published>2021-04-09T08:45:01+02:00</published>
+    <updated>2021-04-09T08:45:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/pet-toothpaste-natural-natura-pet"/>
+    <title>Pet Toothpaste 100% Natural | Natura Pet</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/toothgel.png?v=1623767819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natura Pet's 100% Natural Toothpaste for dogs (195ml) ensures strong teeth and gums, breaks down plaque buildup and protects against bad breath and oral disease!</p>
+<ul>
+<li><span>Promotes fresh breath and a clean mouth for dogs</span></li>
+<li><span>Contains NO: Artificial Sweeteners, Fluoride, Alcohol, Artificial Flavours or Colours</span></li>
+<li>Eco-friendly, certified cruelty-free</li>
+</ul>
+<h2><span>Ingredients</span></h2>
+<p><span>Aqua, Aloe Vera (Aloe barbadensis), Vegetable Glycerin, Coconut Oil (Capric Triglyceride), Sodium Bicarbonate, Kaolin Klay (Kaolin), Peppermint Oil (Mentha piperita), Spearmint Oil (Mentha Spicata)</span></p>
+<h3><span>Directions for use</span></h3>
+<p>Wet toothbrush and apply the dog toothpaste. Lift your dog’s muzzle to gently brush teeth and gums. When done – reward with a<span> </span><a href="https://www.feelgoodhealth.co.za/collections/natural-healthy-pet-food-treats" target="_blank" title="healthy organic pet treat" rel="noopener noreferrer">healthy, organic pet treat</a>!  Tips: Start with a few quick brushes of the front teeth and slowly add to the routine until you get all of their teeth.</p>
+<p>CAUTION: Do NOT use on cats!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4594740166734</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">45.00</s:price>
+      <s:sku>NP014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4596522745934</id>
+    <published>2020-10-28T16:40:14+02:00</published>
+    <updated>2020-10-28T16:40:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/hemp-body-spray-for-dogs-and-cats-with-irritated-skin-natura-pet"/>
+    <title>Hemp Body Spray for dogs and cats with irritated skin | Natura Pet</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PNPBodySprayHemp.png?v=1605775260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pet</strong>'s Hemp Body Spray (200ml) provides a natural solution for allergies, burned skin, dry skin, fungal infections, hot spots, itchy skin, sensitive skin, skin inflammations, wounds, burns, puncture injuries.</p>
+<ul>
+<li><span>Pleasant, herbal smell with pure essential oils</span></li>
+<li><span>In just a few days you'll see a noticeable difference in the health of your dog's skin and coat</span></li>
+<li>Eco-friendly, cruelty-free and chemical-free</li>
+</ul>
+<h3 style="display: inline !important;">Ingredients</h3>
+<p>Aqua, Aloe Vera (Aloe barbadensis), Calendula Oil Infused (Calendula officinalis), Hemp Oil (Cannabis Sativa), Vegetable Glycerin, Coconut based cleaning agents, Cedarwood Oil (Cedrus atlantica Bark), Rosemary Essential oil (Rosmarinus Offcinalis), Natural Preservatives</p>
+<h3>Directions for use</h3>
+<p><span>Spray between the fur right onto the irritated skin (avoiding eye and mouth areas). Massage it into the skin. Repeat daily as needed for desired results.</span><br><br><span>Safe for cats! For external use only. Avoid eye contact or ingestion. If irritation persists contact a veterinarian. Store in a dark, cool place.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4596522745934</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">57.00</s:price>
+      <s:sku>NPHS001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1838849916986</id>
+    <published>2020-09-15T09:45:09+02:00</published>
+    <updated>2020-09-15T09:45:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pet-natural-tick-flea-insect-repellent-spray"/>
+    <title>Insect Repellent Anti-Bug Spray: Natural Defense!</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/PNPCoatSpray.png?v=1605776374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Natura Pets Anti-Bug Spray (195ml) </strong>is a natural insect repellent spray which p</span><span>rotects your dogs and horses naturally and is safe, non-toxic and 100% natural, with natural repellents for biting insects</span> (ticks, fleas &amp; mosquitoes)</p>
+<ul>
+<li>
+<span>Protects against biting insects</span> (ticks, fleas &amp; mosquitoes) </li>
+<li><span>Perfect for use before, during, and after walking, hunting trips, camping trips, day hikes, or wilderness events. </span></li>
+<li><span>Can also be sprayed on bedding</span></li>
+<li><span>Pleasant, refreshing spray will make it even nicer to snuggle up to your favourite furry friend!</span></li>
+<li>100% natural earth-friendly ingredients, well known to repel insects</li>
+<li>Safe enough to use on humans too!</li>
+<li>Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<h3>Ingredients</h3>
+<div>
+<div>
+<span>Pure essential oils of </span><span>Citronella, Lavender, Rose Geranium and Khakibos (Tagetes Minuta) with Aqua and Vegetable Glycerin </span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+</div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>(<strong>NB - Not for use on cats</strong>!) For use on dogs, horses and humans (not cats!). Shake this spray well before using. Spray all over your pet or onto affected areas and rub down into the skin and fur. Apply enough sprays to provide adequate coverage: on back, underside, legs, back of neck, base of tail and outside ears (avoiding eye and mouth areas). Reapply when scent disappears. For complete protection, spray onto their bedding too. Don’t forget to reward with a treat! Avoid contact with eyes. If product accidentally gets into the eye, flush with water. If irritation persists contact a veterinarian. Store in a dark, cool place.</span></p>
+<p><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natura Pet Outdoor Defense Spray</s:tag>
+    <s:tag>Natural flea spray</s:tag>
+    <s:tag>natural tick and flea repellent</s:tag>
+    <s:tag>Natural Tick Repellent</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1838849916986</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">49.00</s:price>
+      <s:sku>NP012</s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1838570668090</id>
+    <published>2020-09-02T11:57:42+02:00</published>
+    <updated>2020-09-02T11:57:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pets-natural-hypo-allergen-shampoo-for-sensitive-skin"/>
+    <title>Hypo-Allergen Shampoo for Sensitive Skin</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Hypo-AllergenShampoo.png?v=1623761787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pets Hypo Allergen Shampoo</strong> is a natural chemical-free environmentally friendly shampoo for pets with sensitive, allergy prone skin. Contains 100% natural ingredients and is  gentle enough to use for dogs, cats, puppies and kittens. (500 ml)</p>
+<ul>
+<li><span>Safe, gentle &amp; natural shampoo for sensitive &amp; allergy-prone skins</span></li>
+<li><span>Ideal for allergic pets, dogs, cats, puppies &amp; kittens</span></li>
+<li>100% natural ingredients -<span> </span><span>contains no soap, parabens, sulfates, petroleum-based Ingredients, artificial fragrances, SLS, DEA, synthetic dyes, perfumes or anything that would harm your pet or the environment!</span>
+</li>
+<li><span>Contains organic coconut oil, aloe, jojoba oil  &amp; essential oils to clean &amp; condition</span></li>
+<li>Optimally pH balanced for your pet's skin (pH7) </li>
+<li>Will not wash off topical flea treatments</li>
+<li>Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<h3>Ingredients</h3>
+<div>
+<p><span>Aqua, Renewable coconut-based cleansers, Coconut Oil, Aloe Vera, Jojoba Oil, Xantan Gum, Citric acid, Natural Preservatives</span></p>
+</div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>Wet fur with warm water. Apply shampoo to the wet fur. Rub in briskly and praise vigorously! Leave the lather to stand for some minutes to allow the natural ingredients to take effect. Rinse well and repeat if necessary. Use Natura Pets Oatmeal Conditioner for an extra healthy and glossy coat! Don’t forget to reward with a treat! For external use only. Avoid contact with eyes and ears!! Rinse thoroughly if exposed to eyes. Store in a dark, cool place.</span></p>
+<p><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natura Pets Hypo Allergen Shampoo</s:tag>
+    <s:tag>Natural Dog Shampoo</s:tag>
+    <s:tag>Natural shampoo for cats</s:tag>
+    <s:tag>Natural shampoo for dogs with sensitive skin</s:tag>
+    <s:tag>Shampoo for allergic dogs</s:tag>
+    <s:tag>Shampoo for cats</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:tag>Soap Free Dog Shampoo</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1838570668090</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">57.00</s:price>
+      <s:sku>NPSHAM003</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1838703018042</id>
+    <published>2020-08-24T16:42:40+02:00</published>
+    <updated>2020-08-24T16:42:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pets-natural-dry-pet-shampoo-lavender-diatomaceous-earth"/>
+    <title>Dry Pet Shampoo With Lavender &amp; Diatomaceous Earth</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/DryShampoo.png?v=1623767393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            47.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pets Dry Pet Shampoo </strong>is perfect for a waterless clean when your pet needs some refreshing and deodorising. Chemical-free and environmentally friendly, this dry shampoo powder also helps to control fleas as it contains Diatomaceous Earth. Safe for dogs and cats (150 ml) </p>
+<ul>
+<li><span>SAVE WATER with this safe, gentle &amp; natural DRY shampoo for dogs and cats!</span></li>
+<li>Perfect for quick fresh-ups between baths, on cold days and for pets who hate bathing</li>
+<li>Contains Diatomaceous Earth so also helps to control fleas</li>
+<li>May also be used to freshen carpets and bedding</li>
+<li>100% natural ingredients -<span> </span><span>contains no soap, parabens, sulfates, petroleum-based ingredients, artificial fragrances, SLS, DEA, synthetic dyes, perfumes or anything that would harm your pet or the environment</span>
+</li>
+<li>Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<h3>Ingredients</h3>
+<div>
+<p><span>Corn Strach (Zea mays), Sodium bicarbonate, Diatomaceous Earth (Solum diatomeae), Colloidal Oatmeal, Kaolin Klay (Kaolin), Lavender Essential Oil (Lavandula angustifolia)</span></p>
+</div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>Safe for use on dogs, cats and puppies. </span><span>Shake bottle to loosen powder. B</span><span>rush your pet to remove</span><span> any matted fur. S</span><span>prinkle a small amount of dry </span><span>shampoo onto fur, starting </span><span>at the neck. Massage powder </span><span>into coat and brush out. Lightly </span><span>brush until powder disappears. </span><span>Working in small areas, repeat </span><span>process along the length of the body, </span><span>including belly, neck and legs. </span><span>Don’t forget to reward with a </span><span>treat!</span></p>
+<p><span>Also great for </span><span>freshening carpets and pet </span><span>bedding. Just sprinkle, let sit, </span><span>then vacuum up!</span></p>
+<p><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diatomaceous Earth for Fleas</s:tag>
+    <s:tag>Natura Pets Dry Pet Shampoo</s:tag>
+    <s:tag>Save water with dry pet shampoo</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1838703018042</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">47.50</s:price>
+      <s:sku>NPDRY001</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1796342415418</id>
+    <published>2020-08-24T16:31:27+02:00</published>
+    <updated>2020-08-24T16:31:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pet-all-natural-dogt-herbal-shampoo-itch-relief-500-ml"/>
+    <title>Itch Relief - All natural shampoo for pets</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/ItchReliefShampoo.png?v=1623762443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pets</strong> <strong>Itch Relief Dog Shampoo</strong> is a natural chemical-free environmentally friendly anti-itch dog shampoo for healthy skin. Contains 100% natural ingredients and is the perfect shampoo for dogs with itchy skin allergies, <span>yeast infections, ringworm, hot spots, eczema, etc (500 ml)</span></p>
+<ul>
+<li>Cleans safely and thoroughly</li>
+<li>Leaves your dog's coat soft, plush, beautifully clean and smelling naturally fresh for days.</li>
+<li>Finest 100 % natural ingredients, including herbs &amp; organic coconut oil</li>
+<li>pH value is formulated for pets (pH7)</li>
+<li>Paraben, Sulphate and Soap free</li>
+<li>Will not wash off topical flea applications</li>
+<li>Not recommended for cats</li>
+</ul>
+<h3>Ingredients</h3>
+<div>Aqua, Renewable coco nut-based cleanser, Renewable coco nut-based conditioner, Vegetable Glycerin, Aloe Vera (Aloe barbadensis), Coconut Oil (Capric Triglyceride), Castor Oil (Ricinus communis), Sweet Almond Oil (Prunus Amygdalus Dulcis), Eucalyptus Oil (Eucalyptus Smithii), Peppermint Oil (Mentha piperita), Tea Tree Oil (Melaleuca alternifolia), Niaouli Oil (Melaleuca viridiflora),</div>
+<div>Lavender Oil (Lavandula angustifolia), Xantan Gum, Citric acid, Natural Preservatives (Ecocert Approved)</div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>Safe for use on dogs, horses and humans. Wet the fur with warm water. Apply shampoo to wet fur. Rub in briskly and praise vigorously! Leave the lather to stand for some minutes to allow the natural ingredients to take effect. Rinse well and repeat if necessary. At the end clean the head with a sponge! For the best result use Natura Pets Eye and Ear Cleansers too. Don’t forget to reward with a treat! For external use only. Avoid contact with eyes and ears!! Rinse thoroughly if exposed to eyes. Store in a dark, cool place.</span></p>
+<ul></ul>
+<p> </p>
+<p><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anti-Itch shampoo for dogs</s:tag>
+    <s:tag>Natura Pets Itch Relief Natural Dog Shampoo</s:tag>
+    <s:tag>Natural Dog Shampoo</s:tag>
+    <s:tag>Shampoo for allergic dogs</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:tag>Soap Free Dog Shampoo</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1796342415418</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">57.00</s:price>
+      <s:sku>NP008</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1843412041786</id>
+    <published>2020-08-24T16:07:09+02:00</published>
+    <updated>2020-08-24T16:07:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pet-shampoo-conditioner-calming-lavender-pet-wash"/>
+    <title>Calming Lavender Pet Wash - Shampoo &amp; Conditioner</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/LavenderCalmWash.png?v=1623766976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This gentle moisturizing 3-in-1 shampoo &amp; conditioner softens and de-tangles the fur, without irritating the skin and leaves your best friend’s coat wonderfully clean, soft, plush.and shiny. The delicious smell of Lavender flowers provides a naturally calming fresh pure scent to the skin and coat for days. (495 ml)</span></p>
+<ul>
+<li><span>Safe, gentle &amp; natural shampoo with a dash of conditioner specially formulated to calm highly strung pets</span></li>
+<li><span>2-in-1 action leaves the coat fresh, clean and beautifully conditioned</span></li>
+<li>100% natural ingredients -<span> </span><span>contains no soap, parabens, sulfates, petroleum-based Ingredients, artificial fragrances, SLS, DEA, synthetic dyes, perfumes or anything that would harm your pet or the environment!</span>
+</li>
+<li>Optimally pH balanced for your pet's skin (pH7) </li>
+<li>Will not wash off topical flea treatments</li>
+<li>Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<h3>Ingredients</h3>
+<p><span>Aqua, Renewable coconut-based cleanser, r</span><span>enewable coconut-based conditioner, v</span><span>egetable glycerin, Aloe Vera (Aloe barbadensis), </span><span>Coconut Oil (Capric Triglyceride), </span><span>Castor Oil (Ricinus communis), Safflower Oil (Carthamus Tinctorius)</span><span>, </span><span>Jojoba oil (Simmondsia chinensis), </span><span>Lavender Essential Oil (Lavandula angustifolia), Sage Essential Oil (Salvia Officinalis), Lavender Fragrance, </span><span>Xantan Gum, </span><span>Citric acid, Natural Preservatives (Ecocert Approved)</span></p>
+<div><span></span></div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>Wet fur with warm water. Apply shampoo to the wet fur. Rub in briskly and praise vigorously! Leave the lather to stand for some minutes to allow the natural ingredients to take effect. Rinse well and repeat if necessary. </span><span>Don’t forget to reward with a treat! For external use only. Avoid contact with eyes and ears!! Rinse thoroughly if exposed to eyes. Store in a dark, cool place.</span> </p>
+<p><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natura Pet Shampoo &amp; Conditioner - Calming Lavender Pet Wash</s:tag>
+    <s:tag>Natural Dog Shampoo</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:tag>Soap Free Dog Shampoo</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1843412041786</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">57.00</s:price>
+      <s:sku>NPS007</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4595622838350</id>
+    <published>2020-08-24T16:05:53+02:00</published>
+    <updated>2020-08-24T16:05:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/hemp-shampoo-for-dogs-cats-and-horses-natura-pet"/>
+    <title>Hemp Shampoo for dogs, cats and horses | Natura Pet</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/heavenlyhempshampoo.png?v=1623768614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pet</strong>'s 100% Natural Hemp Pet Shampoo is eco-friendly, cruelty-free and chemical-free!</p>
+<ul>
+<li>100% natural pH balanced formula that is safe for sensitive skin and for all skin types<br>
+</li>
+<li>
+<span>H</span>elps to counteract itchiness, improve the production of sebum, reduce inflammation of the skin, improve skin allergy symptoms, protect against oxidative stress and relieve pain naturally<br>
+</li>
+<li><span>Cleans safely and thoroughly</span></li>
+<li><span>Will not wash off topical flea applications</span></li>
+</ul>
+<h3>Ingredients</h3>
+<p><span>Aqua, renewable coco nut-based cleanser, Vegetable Glycerin, Aloe Vera (Aloe barbadensis), Coconut Oil (Capric Triglyceride), Hemp Oil (Cannabis Sativa), Calendula Oil Infused (Calendula ocinalis), Shea Butter (Butyrospermum parkii), Hydrolysed vegetable protein, Cedarwood Oil (Cedrus atlantica Bark), Rosemary Essential oil (Rosmarinus Ocinalis), Xantan Gum, Citric acid, Natural Preservatives (Ecocert Approved)</span></p>
+<h3><strong>Directions for use</strong></h3>
+<p><span>Wet your pet's hair with warm water from head to tail. Apply shampoo to the pet’s wet fur and work into a lather. Gently massage deep into the coat and let the lather stand for a few minutes to allow the natural ingredients to be absorbed. Rinse well until water runs clear, at the end clean with a sponge! </span></p>
+<p><span>Safe for dogs, cats, horse AND people!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4595622838350</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">60.00</s:price>
+      <s:sku>NPH002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1838534623290</id>
+    <published>2020-08-24T16:04:42+02:00</published>
+    <updated>2020-08-24T16:04:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pet-snout-paw-butter-conditions-protects"/>
+    <title>Snout &amp; Paw Butter: Conditions, Heals and Protects</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Snout_PawButter_d2fa0657-1356-487c-a021-2b8bf4d9b44a.png?v=1623766422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            40.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Curious noses and busy paws can take a beating, especially in hot or cold weather! Unlike some balms that are petroleum based, <strong>Natura Pets Snout &amp; Paw Balm</strong> is made with shea butter &amp; coconut oil. It is an excellent carrier of other healing properties and improves moisture retention, while soothing and protecting the skin from environment damage. (50 ml)</span></p>
+<ul>
+<li><span>A perfect blend of organic, vegan, nourishing, healing and moisturizing ingredients</span></li>
+<li><span>Keeps paws and noses smooth and healthy and protects from harsh winter and summer conditions</span></li>
+<li><span>Soothes dry skin irritations or rashes, cracked and crusty paws and snout</span></li>
+<li><span>Great to use before outdoor activities like hikes, walks, the beach, going outside in hot or cold weather, after fresh snow or salt and hot surfaces</span></li>
+<li>Safe if licked! 100% natural ingredients -<span> </span><span>contains no soap, parabens, sulfates, petroleum-based Ingredients, artificial fragrances, SLS, DEA, synthetic dyes, perfumes or anything that would harm your pet or the environment!</span>
+</li>
+<li>Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<h3>Ingredients</h3>
+<div>
+<div>
+<div><span>Beeswax, Organic Coconut Oil, Macadamia, Shea Butter, Calendula, Lavender, Vitamin-E</span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+</div>
+<div></div>
+<div></div>
+</div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>Scoop a small amount and rub into paw pads or nose. Paws will be slick directly after application so it is advised to allow time for it to dry. Apply before going outdoors and also before bedtime, as this is when your dog is at rest and the body goes into regeneration mode. Apply daily for 2-3 days until paws/nose improve. This product is for external use only. Store in a dark, cool place.</span></p>
+<p><span>PS: As this Balm has a coconut oil and shea butter base, it can get runny under hot conditions. However, this does not affect its effectiveness. If too runny put it in the fridge to firm up again. </span></p>
+<p><span></span><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natura Pets Snout and Paw Butter</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:tag>Treating cracked paws dogs</s:tag>
+    <s:tag>Treating dry noses dogs</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1838534623290</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">40.50</s:price>
+      <s:sku>NPB001</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4752725704782</id>
+    <published>2020-06-16T13:29:06+02:00</published>
+    <updated>2020-06-16T13:29:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/dry-skin-pets-shampoo-oatmeal-vanilla-natura-pet"/>
+    <title>Dry Skin Pets&apos; Shampoo (Oatmeal &amp; Vanilla) | Natura Pet</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/DrySkinOatmealVanilla.png?v=1623762143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pets'</strong> Oatmeal &amp; Vanilla Dry Skin Care Pet Shampoo (495 ml) is a 100% natural shampoo for dogs, cats and horses for cracked skin, dry skin, sensitive skin.<br></p>
+<ul>
+<li><span>Nourishes sensitive, dry skin and helps to restore natural moisture</span></li>
+<li>Cleans safely and thoroughly with eco-friendly and cruelty-free ingredients</li>
+<li>Soothes dry, itchy skin fast<br>
+</li>
+<li><span>Infuses hair with moisture and leaves the coat smooth</span></li>
+<li><span>100 % natural ingredients</span></li>
+<li><span>pH value is formulated specifically for pets (pH7)</span></li>
+<li><span>Free of parabens, sulphate, colorants and soap</span></li>
+<li><span>Will not wash off topical flea applications</span></li>
+</ul>
+<h3><span>Ingredients</span></h3>
+<p><span>Aqua, Renewable coco nut-based cleanser, Renewable coco nut-based conditioner, Vegetable Glycerin, Aloe Vera (Aloe barbadensis), Coconut Oil (Capric Triglyceride), Shea Butter (Butyrospermum parkii), Castor Oil (Ricinus communis), Colloidal Oatmeal (Avena sativa), Mango Oil (Magnifera Indica), Vanilla Fragrance &amp; Cinnamon Fragrance, Xantham Gum, Citric acid, Natural Preservatives (Ecocert Approved)</span></p>
+<h3><span>How to use</span></h3>
+<p>Wet fur with warm water. Apply shampoo to the wet fur. Rub in briskly and praise vigorously! Leave the lather to stand for some minutes to allow the natural ingredients to take effect. Rinse well and repeat if necessary. Use one of Natura Pets' conditioners for an extra healthy and glossy coat! Don’t forget to reward with one of our<span> </span><a href="https://www.feelgoodhealth.co.za/collections/natural-healthy-pet-food-treats" target="_blank" rel="noopener noreferrer">organic treats</a>!</p>
+<p>For external use only. Avoid contact with eyes and ears!! Rinse thoroughly if exposed to eyes. Store in a dark, cool place.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4752725704782</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">57.00</s:price>
+      <s:sku>NP009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1830984089658</id>
+    <published>2020-06-08T11:42:48+02:00</published>
+    <updated>2020-06-08T11:42:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/natura-pet-dog-cat-eye-cleanser-eye-infection-allergy"/>
+    <title>Eye Cleanser - All Natural for Dogs and Cats</title>
+    <s:type>Pet Grooming &amp; Hygiene</s:type>
+    <s:vendor>Natura Pets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Eyecleanserwaloe.png?v=1605774007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Natura Pets<br>
+        <strong>Type: </strong>Pet Grooming &amp; Hygiene<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Natura Pets</strong> <strong>All Natural Pet Eye Cleanser </strong>will safely clean your pet's eyes while protecting against eye infections and allergies, including discharge and itching eyes. J<span>ust a gentle wipe will keep eyes healthy and protected, with no artificial ingredients - making sure that we do no harm to our pets OR the environment! </span> (<span>195 ml)</span></p>
+<ul>
+<li><span>Chemical free ultra-gentle soothing pet eye cleanser with 100% plant extracts and minerals</span></li>
+<li><span>Helps with eye infections, irritations caused by foreign particles in the eye and air pollution (smog) as well as eye allergies.</span></li>
+<li><span>Use to cleanse the eyes after swimming in chlorinated pools or salt water</span></li>
+<li>100% natural ingredients -<span> </span><span>contains no soap, parabens, sulfates, petroleum-based Ingredients, artificial fragrances, SLS, DEA, synthetic dyes, perfumes or anything that would harm your pet or the environment!</span>
+</li>
+<li>Made in South Africa to reduce YOUR carbon footprint!</li>
+</ul>
+<h3>Ingredients</h3>
+<div>
+<div>
+<div><span>Aqua, De-ionized Water, Aloe Vera, Boric Acid</span></div>
+<div><span></span></div>
+<div></div>
+</div>
+<div></div>
+<div></div>
+</div>
+<div></div>
+<h3>How to Use</h3>
+<p><span>Use a new cotton pad for each eye. Soak the cotton with the cleanser and gently apply on your dog or cat's eyelids and wipe gently below the eye area. Remove excess matter from eye corners. For irritated eyes, apply several drops into the eye to clean and refresh. Use several drops daily to reduce irritation from dust, pollen, and ragweed or after swimming in chlorinated pools or salt water. Use a NEW cotton pad for each eye so as not to transfer infections from eye to the eye. Wipe away debris with clean cotton pad. Don’t forget to reward with a treat! Repeat daily for best results. If irritation persists contact a veterinarian. Store in a dark, cool place.</span></p>
+<p><span></span><em>Disclaimer:</em><span> </span><em>This medicine has not been evaluated by the Medicines Control Council. This medicine is not intended to diagnose, treat, cure or prevent any illness. Please consult your veterinarian if symptoms persist. </em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cat eye cleanser</s:tag>
+    <s:tag>Dog eye cleanser</s:tag>
+    <s:tag>Eye allergies cats</s:tag>
+    <s:tag>Eye allergies dogs</s:tag>
+    <s:tag>Eye drops for cats</s:tag>
+    <s:tag>Eye drops for dogs</s:tag>
+    <s:tag>Eye infections cats</s:tag>
+    <s:tag>Eye infections dogs</s:tag>
+    <s:tag>Natura Pet Eye Cleanser</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:tag>Treatment for eye infections cats</s:tag>
+    <s:tag>Treatment fr eye infections dogs</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1830984089658</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">43.00</s:price>
+      <s:sku>NP010</s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+</feed>

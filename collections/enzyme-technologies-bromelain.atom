@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://naturalwholesalers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://naturalwholesalers.com/collections/enzyme-technologies-bromelain.atom"/>
+  <title>Natural Wholesalers </title>
+  <updated>2021-05-06T15:30:35+02:00</updated>
+  <author>
+    <name>Natural Wholesalers </name>
+  </author>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4850186944590</id>
+    <published>2021-05-06T15:30:35+02:00</published>
+    <updated>2021-05-06T15:30:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/bromelain-capsules-strength-2400-everyday-strength"/>
+    <title>Bromelain Capsules (Strength 2400) - everyday strength</title>
+    <s:type>Supplements</s:type>
+    <s:vendor>Enzyme Technologies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/BromelainEnzymes.png?v=1603788456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enzyme Technologies<br>
+        <strong>Type: </strong>Supplements<br>
+        <strong>Price: </strong>
+            194.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Enzyme Technologies</strong>' Bromelain Capsules (60 vegan capsules) 2400 Strength is quality, n<span data-mce-fragment="1">on-toxic and safe for everyday consumption!</span></p>
+<ul>
+<li>A very good digestive aid and de-wormer, and known to treat stomach ulcers<br>
+</li>
+<li><span>Anti-inflammatory (reduces pain and inflammation related to arthritis, surgery and injury)</span></li>
+<li><span>Effective antibiotic and antiviral</span></li>
+<li><span>Improves immune functioning and speeds up healing processes</span></li>
+<li><span>Anti-coagulant (reduces the risk of heart disease and strokes)</span></li>
+<li><span>Anti-cancer properties</span></li>
+<li><span>A proudly South African product manufactured in South Africa using locally sourced pineapples</span></li>
+<li><span>Suitable for Vegans and Vegetarians</span></li>
+<li>
+<span>Dairy free, nut-free, gluten-free.</span> </li>
+</ul>
+<ul></ul>
+<h3><span data-mce-fragment="1">Ingredients</span></h3>
+<p><span data-mce-fragment="1">Bromelain (Pineapple enzyme), L-Cystein (plant based), Maltodextrine, Vegan cellulose capsules</span></p>
+<h3><span data-mce-fragment="1">How to use</span></h3>
+<p><span data-mce-fragment="1">Take with meals to support gut health | </span><span data-mce-fragment="1">Take between meals to reduce inflammation, pain and thin blood | </span><span data-mce-fragment="1">2-3 capsules daily</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4850186944590</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">194.00</s:price>
+      <s:sku>BROM001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/4850186125390</id>
+    <published>2020-10-26T16:01:04+02:00</published>
+    <updated>2020-10-26T16:01:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/bromelain-capsules-strength-4000-therapeutic-strength"/>
+    <title>Bromelain Capsules (Strength 4000) - therapeutic strength</title>
+    <s:type>Supplements</s:type>
+    <s:vendor>Enzyme Technologies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/BromelainEnzymes_f8b25d5e-b60c-4220-8969-8cf82e3623cc.png?v=1603788844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enzyme Technologies<br>
+        <strong>Type: </strong>Supplements<br>
+        <strong>Price: </strong>
+            222.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Enzyme Technologies</strong>' Bromelain Capsules (60 vegan capsules) 4000 Strength is quality, n<span data-mce-fragment="1">on-toxic and safe for daily consumption!</span></p>
+<ul>
+<li><span>This concentrated form of the enzyme offers a high therapeutic benefit at incredibly low doses, suitable for chronic conditions</span></li>
+<li>A very good digestive aid and de-wormer, and known to treat stomach ulcers<br>
+</li>
+<li><span>Anti-inflammatory (reduces pain and inflammation related to arthritis, surgery and injury)</span></li>
+<li><span>Effective antibiotic and antiviral</span></li>
+<li><span>Improves immune functioning and speeds up healing processes</span></li>
+<li><span>Anti-coagulant (reduces the risk of heart disease and strokes)</span></li>
+<li><span>Anti-cancer properties</span></li>
+<li><span>A proudly South African product manufactured in South Africa using locally sourced pineapples</span></li>
+<li><span>Suitable for Vegans and Vegetarians</span></li>
+<li>
+<span>Dairy free, nut-free, gluten-free.</span> </li>
+</ul>
+<ul></ul>
+<h3><span data-mce-fragment="1">Ingredients</span></h3>
+<p><span data-mce-fragment="1">Bromelain (Pineapple enzyme), L-Cystein (plant based), Maltodextrine, Vegan cellulose capsules</span></p>
+<h3><span data-mce-fragment="1">How to use</span></h3>
+<p><span data-mce-fragment="1">Take with meals to support gut health | </span><span data-mce-fragment="1">Take between meals to reduce inflammation, pain and thin blood | 1</span><span data-mce-fragment="1">-2 capsules daily</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sidebar_brands</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/4850186125390</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">222.00</s:price>
+      <s:sku>BROM002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

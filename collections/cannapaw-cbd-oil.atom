@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://naturalwholesalers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://naturalwholesalers.com/collections/cannapaw-cbd-oil.atom"/>
+  <title>Natural Wholesalers </title>
+  <updated>2021-03-18T16:27:11+02:00</updated>
+  <author>
+    <name>Natural Wholesalers </name>
+  </author>
+  <entry>
+    <id>https://naturalwholesalers.com/products/2454820094010</id>
+    <published>2021-03-18T16:27:11+02:00</published>
+    <updated>2021-03-18T16:27:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/cannapaw-cbd-pet-treats-certified-usda-organic-full-spectrum-cbd"/>
+    <title>Cannapaw CBD Pet Treats (Certified USDA Organic Broad Spectrum CBD)</title>
+    <s:type>Pet Snacks</s:type>
+    <s:vendor>Cannapaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/Newcannapawtreats.png?v=1615886962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cannapaw<br>
+        <strong>Type: </strong>Pet Snacks<br>
+        <strong>Price: </strong>
+            64.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cannapaw</strong>'s CBD Treats are a delicious and healthy snack for your beloved pet! Organic, yummy and therapeutic CBD treats.</p>
+<ul>
+<li>Use for training or as an anytime treat </li>
+<li>Therapeutic ingredients help relax and calm anxious, distressed or highly-strung animals (thunder, fireworks, separation, new baby etc.)</li>
+<li>CBD treats help with with pain, aches and inflammation (e.g. arthritis)</li>
+<li>Aids digestive health</li>
+<li>Reduces allergies </li>
+<li>Inhibits cancer growth</li>
+</ul>
+<h2>Ingredients</h2>
+<p>Certified USDA Organic Broad Spectrum CBD, Citrus Bioflavonoids, Organic Coconut Oil, Pumpkin, Peanut Butter, Wheat Flour, Low Salt, Low Sodium Beef Stock, Potassium Sorbate (safe for animals)</p>
+<h2>Directions for use</h2>
+<p>1-2 treats depending on size. Start small (1/2 a treat) and increase if needed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cannapaw CBD Oil</s:tag>
+    <s:tag>CBD Oil</s:tag>
+    <s:tag>CBD pet treats</s:tag>
+    <s:tag>Healthy treats for dogs</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/2454820094010</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">64.50</s:price>
+      <s:sku>CANN007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://naturalwholesalers.com/products/1986722365498</id>
+    <published>2021-01-14T11:56:58+02:00</published>
+    <updated>2021-01-14T11:56:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://naturalwholesalers.com/products/cannapaw-cbd-oil-paired-with-mtc-200mg-30ml"/>
+    <title>Cannapaw CBD Oil Paired With MCT - 200mg/30ml</title>
+    <s:type>CBD Oil</s:type>
+    <s:vendor>Cannapaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0079/1606/0730/products/CannapawCBDOil.png?v=1626086766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cannapaw<br>
+        <strong>Type: </strong>CBD Oil<br>
+        <strong>Price: </strong>
+            197.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cannapaw's CBD Oil (200mg/30ml)</strong> is a clear blend of <span>certified USDA Organic Broad Terpene Spectrum CBD, paired with MCT (Medium Chain Triglycerides), </span>suitable for all animals. D<span>esigned to help pets feel more energetic and helps ease joint pain, inflammation, anxiety and so much more.</span></p>
+<ul>
+<li>Improve behavioural problems like persistent barking, chewing furniture, aggression, nervous tremors or urinating and defecating in the home</li>
+<li>Acts as <span>an antibacterial, antiviral and anti-fungal</span>
+</li>
+<li><span>Promotes vitality, immune system and overall welness</span></li>
+<li>May assist in the holistic treatment of cancer and reduce cancer risks</li>
+<li><span>Helps promote the optimum functioning of nervous system and seizure control</span></li>
+<li><span>Reduces joint pain and inflammation</span></li>
+<li><span><strong>Cannapaw's </strong>CBD oil is Co2 extracted and free from any herbicides, pesticides, GMO products, solvents or any other form of additive</span></li>
+</ul>
+<h2><span>Ingredients</span></h2>
+<p><span>Certifed USDA Organic Broad Spectrum CBD, MCT Oil, Lecithin, Biodegradable Preservative (Pureganic)</span></p>
+<h2><span>Directions for use</span></h2>
+<p><strong>Cannapaw CBD Oil</strong> for pets may be mixed with food for easy dosage. The recommendation is to start low and see how your pet does and then increase to the dose that works best for your pet.</p>
+<p class="gmail_default"><b><span>Start with the lower dose and slowly increase to the upper dose if necessary, depending on your pet's health needs.</span></b></p>
+<div class="gmail_default">Cats and small dogs 3 - 5 drops at night</div>
+<div class="gmail_default">Medium dogs 5 - 10 drops at night</div>
+<p class="gmail_default">Large dogs 10 - 15 drops at night</p>
+<p class="gmail_default">In severe cases, you can add a dose of 5 drops in the morning.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cannapaw</s:tag>
+    <s:tag>Cannapaw CBD Oil</s:tag>
+    <s:tag>Cannapaw CBD Oil Wholesale Distributor in South Africa</s:tag>
+    <s:tag>CBD Oil</s:tag>
+    <s:tag>CBD Oil for animals</s:tag>
+    <s:tag>CBD Oil in MCT Oil</s:tag>
+    <s:tag>sidebar_brands-pets</s:tag>
+    <s:variant>
+      <id>https://naturalwholesalers.com/products/1986722365498</id>
+      <title>Default Title</title>
+      <s:price currency="ZAR">197.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
